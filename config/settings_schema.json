@@ -79,6 +79,13 @@
           },
           {
             "type": "color",
+            "id": "foreground_subheading",
+            "label": "t:settings.subheadings",
+            "default": "#000000",
+            "alpha": true
+          },
+          {
+            "type": "color",
             "id": "foreground",
             "label": "t:settings.text",
             "default": "#000000",
