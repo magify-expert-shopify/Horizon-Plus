@@ -1,0 +1,27 @@
+{
+  "name": "horizon-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "logout": "shopify auth logout",
+    "pull": "shopify theme pull --ignore package.json",
+    "push": "shopify theme push -a",
+    "dev": "shopify theme dev",
+    "pretty": "prettier --write \"./**/*.{liquid,sass,scss,css,js,jsx,mjs,cjs,ts,tsx,json}\"",
+    "json": "prettier --write ./**/*.json"
+  },
+  "keywords": [
+    "shopify",
+    "theme",
+    "liquid",
+    "horizon",
+    "horizon-plus",
+    "horizon-theme"
+  ],
+  "author": "Magify",
+  "devDependencies": {
+    "@shopify/prettier-plugin-liquid": "^1.10.0",
+    "prettier": "^3.8.1"
+  }
+}
