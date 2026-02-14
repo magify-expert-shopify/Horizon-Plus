@@ -26,6 +26,10 @@
       {% comment %} theme-check-enable RemoteAsset {% endcomment %}
     {% endif %}
 
+    {% style %}
+      {%- render 'critical-css' -%}
+    {% endstyle %}
+
     {%- render 'meta-tags' -%}
     {%- render 'stylesheets' -%}
     {%- render 'fonts' -%}
