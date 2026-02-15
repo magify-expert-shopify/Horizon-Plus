@@ -530,6 +530,7 @@
     "gift_card_form": "Formulário de cartão-presente",
     "seller_note_open_by_default": "Abrir observação para o vendedor por padrão",
     "add_to_cart_animation": "Adicionar ao carrinho",
+    "text_animation_enabled": "Ativar animação de texto",
     "custom_link": "Link personalizado",
     "product_custom_property": {
       "heading": "Título",

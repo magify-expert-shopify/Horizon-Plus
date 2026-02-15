@@ -530,6 +530,7 @@
     "gift_card_form": "禮品卡表單",
     "seller_note_open_by_default": "預設展開給賣家的備註",
     "add_to_cart_animation": "加入購物車",
+    "text_animation_enabled": "啟用文字動畫",
     "custom_link": "自訂連結",
     "product_custom_property": {
       "heading": "標題",

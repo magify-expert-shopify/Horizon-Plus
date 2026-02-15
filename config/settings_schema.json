@@ -1400,6 +1400,12 @@
       },
       {
         "type": "checkbox",
+        "id": "text_animation_enabled",
+        "label": "t:settings.text_animation_enabled",
+        "default": true
+      },
+      {
+        "type": "checkbox",
         "id": "transition_to_main_product",
         "label": "t:settings.transition_to_main_product",
         "default": true

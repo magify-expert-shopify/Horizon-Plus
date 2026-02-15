@@ -530,6 +530,7 @@
     "seller_note_open_by_default": "Anmerkung an den Verkäufer standardmäßig öffnen",
     "gift_card_form": "Gutscheinformular",
     "add_to_cart_animation": "Zum Warenkorb hinzufügen",
+    "text_animation_enabled": "Textanimation aktivieren",
     "custom_link": "Benutzerdefinierter Link",
     "product_custom_property": {
       "heading": "Überschrift",

@@ -38,6 +38,14 @@
   {% endif %}
 ></script>
 
+{% if settings.text_transition_enabled %}
+  <script
+    src="{{ 'animations.js' | asset_url }}"
+    type="module"
+    fetchpriority="low"
+  ></script>
+{% endif %}
+
 <link
   rel="modulepreload"
   href="{{ 'utilities.js' | asset_url }}"

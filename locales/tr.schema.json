@@ -530,6 +530,7 @@
     "seller_note_open_by_default": "Satıcıya not alanını varsayılan olarak açık tut",
     "gift_card_form": "Hediye kartı formu",
     "add_to_cart_animation": "Sepete ekle",
+    "text_animation_enabled": "Metin animasyonunu etkinleştir",
     "custom_link": "Özel bağlantı",
     "product_custom_property": {
       "heading": "Başlık",

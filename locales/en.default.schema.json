@@ -756,6 +756,7 @@
     "animation_repeat": "Repeat animation",
     "add_discount_code": "Allow discounts in cart",
     "add_to_cart_animation": "Add to cart",
+    "text_animation_enabled": "Enable text animation",
     "always_stack_buttons": "Always stack buttons",
     "aspect_ratio": "Aspect ratio",
     "custom_mobile_media": "Show different media on mobile",

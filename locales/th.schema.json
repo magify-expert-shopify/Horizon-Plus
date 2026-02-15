@@ -530,6 +530,7 @@
     "seller_note_open_by_default": "เปิดหมายเหตุถึงผู้ขายเป็นค่าเริ่มต้น",
     "gift_card_form": "ฟอร์มบัตรของขวัญ",
     "add_to_cart_animation": "เพิ่มลงในตะกร้าสินค้า",
+    "text_animation_enabled": "เปิดใช้งานแอนิเมชันข้อความ",
     "custom_link": "ลิงก์ที่กำหนดเอง",
     "product_custom_property": {
       "heading": "หัวเรื่อง",

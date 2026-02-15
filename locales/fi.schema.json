@@ -530,6 +530,7 @@
     "seller_note_open_by_default": "Avaa viesti myyjälle oletusarvoisesti",
     "gift_card_form": "Lahjakorttilomake",
     "add_to_cart_animation": "Lisää ostoskoriin",
+    "text_animation_enabled": "Ota tekstianimaatio käyttöön",
     "custom_link": "Mukautettu linkki",
     "product_custom_property": {
       "heading": "Otsikko",

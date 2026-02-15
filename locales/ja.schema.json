@@ -530,6 +530,7 @@
     "seller_note_open_by_default": "デフォルトで販売者へのメモを開く",
     "gift_card_form": "ギフトカードフォーム",
     "add_to_cart_animation": "カートに追加",
+    "text_animation_enabled": "テキストアニメーションを有効にする",
     "custom_link": "カスタムリンク",
     "product_custom_property": {
       "heading": "見出し",

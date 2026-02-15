@@ -530,6 +530,7 @@
     "seller_note_open_by_default": "Öppna meddelande till säljaren som standard",
     "gift_card_form": "Formulär för presentkort",
     "add_to_cart_animation": "Lägg till i varukorgen",
+    "text_animation_enabled": "Aktivera textanimering",
     "custom_link": "Anpassad länk",
     "product_custom_property": {
       "heading": "Rubrik",

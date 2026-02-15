@@ -530,6 +530,7 @@
     "seller_note_open_by_default": "默认打开给卖家的留言",
     "gift_card_form": "礼品卡表单",
     "add_to_cart_animation": "添加到购物车",
+    "text_animation_enabled": "启用文字动画",
     "custom_link": "自定义链接",
     "product_custom_property": {
       "heading": "标题",

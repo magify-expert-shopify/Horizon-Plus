@@ -530,6 +530,7 @@
     "gift_card_form": "Gavekortskjema",
     "seller_note_open_by_default": "Åpne merknad til selger som standard",
     "add_to_cart_animation": "Legg i handlekurv",
+    "text_animation_enabled": "Aktiver tekstanimasjon",
     "custom_link": "Egendefinert kobling",
     "product_custom_property": {
       "heading": "Overskrift",
