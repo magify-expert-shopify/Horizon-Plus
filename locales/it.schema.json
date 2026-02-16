@@ -210,6 +210,7 @@
     "name": "Nome",
     "value": "Valore",
     "checked": "Selezionato per impostazione predefinita",
+    "id": "ID",
     "alignment": "Allineamento",
     "autoplay": "Riproduzione automatica",
     "background": "Sfondo",

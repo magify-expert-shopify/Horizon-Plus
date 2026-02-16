@@ -210,6 +210,7 @@
     "name": "名称",
     "value": "值",
     "checked": "默认选中",
+    "id": "ID",
     "alignment": "对齐方式",
     "autoplay": "自动播放",
     "background": "背景",

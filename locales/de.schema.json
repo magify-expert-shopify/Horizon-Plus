@@ -210,6 +210,7 @@
     "name": "Name",
     "value": "Wert",
     "checked": "Standardmäßig ausgewählt",
+    "id": "ID",
     "autoplay": "Autoplay",
     "background": "Hintergrund",
     "border_radius": "Eckenradius",

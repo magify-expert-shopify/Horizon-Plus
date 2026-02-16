@@ -210,6 +210,7 @@
     "name": "Nazwa",
     "value": "Wartość",
     "checked": "Domyślnie zaznaczone",
+    "id": "ID",
     "autoplay": "Autoodtwarzanie",
     "background": "Tło",
     "border_radius": "Promień narożnika",

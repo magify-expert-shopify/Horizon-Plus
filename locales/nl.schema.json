@@ -210,6 +210,7 @@
     "name": "Naam",
     "value": "Waarde",
     "checked": "Standaard geselecteerd",
+    "id": "ID",
     "autoplay": "Automatisch afspelen",
     "background": "Achtergrond",
     "border_radius": "Hoekradius",

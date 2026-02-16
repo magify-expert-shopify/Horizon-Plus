@@ -210,6 +210,7 @@
     "name": "Nimi",
     "value": "Arvo",
     "checked": "Valittu oletuksena",
+    "id": "ID",
     "alignment": "Tasaus",
     "autoplay": "Automaattinen toisto",
     "background": "Tausta",

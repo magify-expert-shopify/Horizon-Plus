@@ -210,6 +210,7 @@
     "name": "이름",
     "value": "값",
     "checked": "기본으로 선택됨",
+    "id": "ID",
     "autoplay": "자동 재생",
     "background": "배경",
     "border_radius": "모서리 반경",

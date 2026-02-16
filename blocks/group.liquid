@@ -1,5 +1,3 @@
-
-
 {%- capture children %}
   {% content_for 'blocks' %}
 {% endcapture %}
@@ -497,6 +495,12 @@
       "step": 1,
       "unit": "px",
       "default": 0
+    },
+    { "type": "header", "content": "t:content.advanced" },
+    {
+      "type": "text",
+      "id": "id",
+      "label": "t:settings.id"
     }
   ],
   "presets": [

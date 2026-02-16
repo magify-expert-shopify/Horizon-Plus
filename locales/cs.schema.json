@@ -210,6 +210,7 @@
     "name": "Název",
     "value": "Hodnota",
     "checked": "Ve výchozím nastavení vybráno",
+    "id": "ID",
     "alignment": "Zarovnání",
     "autoplay": "Automatické přehrávání",
     "background": "Pozadí",

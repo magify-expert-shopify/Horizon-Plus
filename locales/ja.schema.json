@@ -210,6 +210,7 @@
     "name": "名前",
     "value": "値",
     "checked": "デフォルトで選択",
+    "id": "ID",
     "alignment": "配置",
     "autoplay": "自動再生",
     "background": "背景",

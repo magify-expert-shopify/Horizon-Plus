@@ -210,6 +210,7 @@
     "name": "Ad",
     "value": "Değer",
     "checked": "Varsayılan olarak seçili",
+    "id": "ID",
     "autoplay": "Otomatik oynatma",
     "background": "Arka plan",
     "border_radius": "Köşe yarıçapı",
