@@ -36,6 +36,7 @@
     "submit_button": "送信ボタン",
     "grid_layout_selector": "グリッドレイアウトセレクター",
     "image": "画像",
+    "image_and_videos": "画像と動画",
     "list_items": "リストアイテム",
     "facets": "ファセット",
     "variants": "バリエーション",
@@ -205,6 +206,7 @@
     "radio_card": "ラジオカード"
   },
   "settings": {
+    "fetch_priority": "読み込み優先度",
     "name": "名前",
     "value": "値",
     "checked": "デフォルトで選択",
@@ -602,6 +604,7 @@
     "apple": "Apple",
     "arrow": "矢印",
     "auto": "自動",
+    "low": "低",
     "banana": "バナナ",
     "bottle": "ボトル",
     "box": "ボックス",
@@ -647,6 +650,7 @@
     "m": "M",
     "map_pin": "マップピン",
     "medium": "中",
+    "high": "高",
     "none": "なし",
     "numbers": "数字",
     "nut_free": "ナッツ不使用",

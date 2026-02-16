@@ -36,6 +36,7 @@
     "submit_button": "Send inn-knapp",
     "grid_layout_selector": "Rutenettlayout-velger",
     "image": "Bilde",
+    "image_and_videos": "Bilder og videoer",
     "list_items": "Listeelementer",
     "facets": "Fasetter",
     "variants": "Varianter",
@@ -205,6 +206,7 @@
     "radio_card": "Radiokort"
   },
   "settings": {
+    "fetch_priority": "Lasteprioritet",
     "name": "Navn",
     "value": "Verdi",
     "checked": "Avkrysset som standard",
@@ -602,6 +604,7 @@
     "apple": "Eple",
     "arrow": "Pil",
     "auto": "Auto",
+    "low": "Lav",
     "banana": "Banan",
     "bottle": "Flaske",
     "box": "Boks",
@@ -647,6 +650,7 @@
     "m": "M",
     "map_pin": "Kartnål",
     "medium": "Middels",
+    "high": "Høy",
     "none": "Ingen",
     "numbers": "Tall",
     "nut_free": "Nøttefri",

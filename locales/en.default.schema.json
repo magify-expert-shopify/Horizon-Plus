@@ -329,6 +329,7 @@
     "icons": "Icons",
     "icons_with_text": "Icons with text",
     "image": "Image",
+    "image_and_videos": "Image and videos",
     "image_compare": "Image compare",
     "image_with_text": "Image with text",
     "input": "Input",
@@ -448,6 +449,7 @@
     "arrows_large": "Large arrows",
     "aspect_ratio": "Aspect ratio",
     "auto": "Auto",
+    "low": "Low",
     "balance": "Balance",
     "banana": "Banana",
     "below_image": "Below image",
@@ -600,6 +602,7 @@
     "media_second": "Media second",
     // Size/weight option between small/light and large/heavy
     "medium": "Medium",
+    "high": "High",
     "modal": "Modal",
     "narrow": "Narrow",
     "never": "Never",
@@ -754,6 +757,7 @@
     "radio_card": "Radio card"
   },
   "settings": {
+    "fetch_priority": "Fetch priority",
     "name": "Name",
     "value": "Value",
     "checked": "Checked by default",

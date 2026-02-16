@@ -35,6 +35,7 @@
     "submit_button": "Senden-Schaltfläche",
     "grid_layout_selector": "Raster-Layout-Auswahl",
     "image": "Bild",
+    "image_and_videos": "Bilder und Videos",
     "list_items": "Listenelemente",
     "facets": "Filteroptionen",
     "variants": "Varianten",
@@ -205,6 +206,7 @@
     "radio_card": "Auswahlkarte"
   },
   "settings": {
+    "fetch_priority": "Ladepriorität",
     "name": "Name",
     "value": "Wert",
     "checked": "Standardmäßig ausgewählt",
@@ -635,6 +637,7 @@
     "lock": "Schloss",
     "map_pin": "Karten-Pin",
     "medium": "Mittel",
+    "high": "Hoch",
     "none": "Keine",
     "numbers": "Zahlen",
     "nut_free": "Nussfrei",
@@ -669,6 +672,7 @@
     "vimeo": "Vimeo",
     "washing": "Waschen",
     "auto": "Automatisch",
+    "low": "Niedrig",
     "default": "Standard",
     "fill": "Füllen",
     "fit": "Anpassen",

@@ -36,6 +36,7 @@
     "submit_button": "Gönder düğmesi",
     "grid_layout_selector": "Izgara düzeni seçici",
     "image": "Görsel",
+    "image_and_videos": "Görseller ve videolar",
     "list_items": "Liste öğeleri",
     "facets": "Özellikler",
     "variants": "Varyasyonlar",
@@ -205,6 +206,7 @@
     "radio_card": "Seçim kartı"
   },
   "settings": {
+    "fetch_priority": "Yükleme önceliği",
     "name": "Ad",
     "value": "Değer",
     "checked": "Varsayılan olarak seçili",
@@ -635,6 +637,7 @@
     "lock": "Kilit",
     "map_pin": "Harita pini",
     "medium": "Orta",
+    "high": "Yüksek",
     "none": "Hiçbiri",
     "numbers": "Sayılar",
     "nut_free": "Kuruyemiş içermez",
@@ -669,6 +672,7 @@
     "vimeo": "Vimeo",
     "washing": "Yıkama",
     "auto": "Otomatik",
+    "low": "Düşük",
     "default": "Varsayılan",
     "fill": "Doldur",
     "fit": "Sığdır",

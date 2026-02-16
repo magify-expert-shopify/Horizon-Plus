@@ -36,6 +36,7 @@
     "submit_button": "제출 버튼",
     "grid_layout_selector": "그리드 레이아웃 선택기",
     "image": "이미지",
+    "image_and_videos": "이미지 및 동영상",
     "list_items": "목록 품목",
     "facets": "필터 항목",
     "variants": "이형 상품",
@@ -205,6 +206,7 @@
     "radio_card": "라디오 카드"
   },
   "settings": {
+    "fetch_priority": "로드 우선순위",
     "name": "이름",
     "value": "값",
     "checked": "기본으로 선택됨",
@@ -635,6 +637,7 @@
     "lock": "잠금",
     "map_pin": "지도 핀",
     "medium": "중간",
+    "high": "높음",
     "none": "없음",
     "numbers": "숫자",
     "nut_free": "견과류 미포함",
@@ -669,6 +672,7 @@
     "vimeo": "Vimeo",
     "washing": "세탁",
     "auto": "자동",
+    "low": "낮음",
     "default": "기본값",
     "fill": "채우기",
     "fit": "맞춤",

@@ -35,6 +35,7 @@
     "submit_button": "提交按鈕",
     "grid_layout_selector": "網格版面配置選擇器",
     "image": "圖片",
+    "image_and_videos": "圖片與影片",
     "list_items": "清單項目",
     "facets": "多面向",
     "variants": "子類",
@@ -205,6 +206,7 @@
     "radio_card": "單選卡片"
   },
   "settings": {
+    "fetch_priority": "載入優先順序",
     "name": "名稱",
     "value": "值",
     "checked": "預設勾選",
@@ -602,6 +604,7 @@
     "apple": "Apple",
     "arrow": "箭頭",
     "auto": "自動",
+    "low": "低",
     "banana": "香蕉",
     "bottle": "瓶子",
     "box": "方塊",
@@ -647,6 +650,7 @@
     "m": "M",
     "map_pin": "地圖圖釘",
     "medium": "中",
+    "high": "高",
     "none": "無",
     "numbers": "數字",
     "nut_free": "無堅果",

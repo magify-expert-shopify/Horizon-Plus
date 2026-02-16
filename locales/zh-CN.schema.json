@@ -36,6 +36,7 @@
     "submit_button": "提交按钮",
     "grid_layout_selector": "网格布局选择器",
     "image": "图片",
+    "image_and_videos": "图片和视频",
     "list_items": "列表项",
     "facets": "分面",
     "variants": "多属性",
@@ -205,6 +206,7 @@
     "radio_card": "单选卡片"
   },
   "settings": {
+    "fetch_priority": "加载优先级",
     "name": "名称",
     "value": "值",
     "checked": "默认选中",
@@ -602,6 +604,7 @@
     "apple": "Apple",
     "arrow": "箭头",
     "auto": "自动",
+    "low": "低",
     "banana": "香蕉",
     "bottle": "瓶子",
     "box": "方框",
@@ -647,6 +650,7 @@
     "m": "M",
     "map_pin": "地图图钉",
     "medium": "中",
+    "high": "高",
     "none": "无",
     "numbers": "数字",
     "nut_free": "不含坚果",

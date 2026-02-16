@@ -35,6 +35,7 @@
     "submit_button": "Lähetä-painike",
     "grid_layout_selector": "Ruudukkoasettelun valitsin",
     "image": "Kuva",
+    "image_and_videos": "Kuvat ja videot",
     "list_items": "Luettelon kohdat",
     "facets": "Kohdistukset",
     "variants": "Versiot",
@@ -205,6 +206,7 @@
     "radio_card": "Valintakortti"
   },
   "settings": {
+    "fetch_priority": "Latausprioriteetti",
     "name": "Nimi",
     "value": "Arvo",
     "checked": "Valittu oletuksena",
@@ -602,6 +604,7 @@
     "apple": "Omena",
     "arrow": "Nuoli",
     "auto": "Automaattinen",
+    "low": "Matala",
     "banana": "Banaani",
     "bottle": "Pullo",
     "box": "Laatikko",
@@ -647,6 +650,7 @@
     "m": "M",
     "map_pin": "Karttaneula",
     "medium": "Keskikokoinen",
+    "high": "Korkea",
     "none": "Ei mitään",
     "numbers": "Numerot",
     "nut_free": "Pähkinätön",

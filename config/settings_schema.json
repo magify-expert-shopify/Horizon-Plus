@@ -1891,6 +1891,39 @@
     ]
   },
   {
+    "name": "t:names.image_and_videos",
+    "settings": [
+      {
+        "type": "header",
+        "content": "t:content.image"
+      },
+      {
+        "type": "select",
+        "id": "fetch_priority",
+        "label": "t:settings.fetch_priority",
+        "options": [
+          {
+            "value": "auto",
+            "label": "t:options.auto"
+          },
+          {
+            "value": "low",
+            "label": "t:options.low"
+          },
+          {
+            "value": "medium",
+            "label": "t:options.medium"
+          },
+          {
+            "value": "high",
+            "label": "t:options.high"
+          }
+        ],
+        "default": "auto"
+      }
+    ]
+  },
+  {
     "name": "t:names.icons",
     "settings": [
       {

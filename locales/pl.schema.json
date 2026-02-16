@@ -36,6 +36,7 @@
     "submit_button": "Przycisk przesyłania",
     "grid_layout_selector": "Selektor układu siatki",
     "image": "Obraz",
+    "image_and_videos": "Obrazy i filmy",
     "list_items": "Elementy listy",
     "facets": "Aspekty",
     "variants": "Warianty",
@@ -205,6 +206,7 @@
     "radio_card": "Karta opcji"
   },
   "settings": {
+    "fetch_priority": "Priorytet ładowania",
     "name": "Nazwa",
     "value": "Wartość",
     "checked": "Domyślnie zaznaczone",
@@ -635,6 +637,7 @@
     "lock": "Kłódka",
     "map_pin": "Pinezka na mapie",
     "medium": "Średni",
+    "high": "Wysoki",
     "none": "Brak",
     "numbers": "Liczby",
     "nut_free": "Bez orzechów",
@@ -669,6 +672,7 @@
     "vimeo": "Vimeo",
     "washing": "Pranie",
     "auto": "Automatyczny",
+    "low": "Niski",
     "default": "Domyślny",
     "fill": "Wypełnienie",
     "fit": "Dopasuj",

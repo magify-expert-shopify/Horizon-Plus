@@ -36,6 +36,7 @@
     "submit_button": "Botón Enviar",
     "grid_layout_selector": "Selector de diseño de cuadrícula",
     "image": "Imagen",
+    "image_and_videos": "Imágenes y videos",
     "list_items": "Elementos de lista",
     "facets": "Facetas",
     "variants": "Variantes",
@@ -205,6 +206,7 @@
     "radio_card": "Tarjeta de opción"
   },
   "settings": {
+    "fetch_priority": "Prioridad de carga",
     "name": "Nombre",
     "value": "Valor",
     "checked": "Seleccionado de forma predeterminada",
@@ -602,6 +604,7 @@
     "apple": "Apple",
     "arrow": "Flecha",
     "auto": "Auto",
+    "low": "Baja",
     "banana": "Banana",
     "bottle": "Botella",
     "box": "Caja",
@@ -647,6 +650,7 @@
     "m": "M",
     "map_pin": "Marcador de mapa",
     "medium": "Mediano",
+    "high": "Alta",
     "none": "Ninguno",
     "numbers": "Números",
     "nut_free": "Sin frutos secos",

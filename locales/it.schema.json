@@ -35,6 +35,7 @@
     "submit_button": "Pulsante di invio",
     "grid_layout_selector": "Selettore del layout a griglia",
     "image": "Immagine",
+    "image_and_videos": "Immagini e video",
     "list_items": "Voci dell'elenco",
     "facets": "Filtri",
     "variants": "Varianti",
@@ -205,6 +206,7 @@
     "radio_card": "Scheda opzione"
   },
   "settings": {
+    "fetch_priority": "Priorità di caricamento",
     "name": "Nome",
     "value": "Valore",
     "checked": "Selezionato per impostazione predefinita",
@@ -602,6 +604,7 @@
     "apple": "Mela",
     "arrow": "Freccia",
     "auto": "Automatico",
+    "low": "Bassa",
     "banana": "Banana",
     "bottle": "Bottiglia",
     "box": "Riquadro",
@@ -647,6 +650,7 @@
     "m": "M",
     "map_pin": "Puntina da mappa",
     "medium": "Medio",
+    "high": "Alta",
     "none": "Nessuno",
     "numbers": "Numeri",
     "nut_free": "Senza frutta a guscio",

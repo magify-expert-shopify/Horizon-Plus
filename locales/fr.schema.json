@@ -36,6 +36,7 @@
     "submit_button": "Bouton Soumettre",
     "grid_layout_selector": "Sélecteur de mise en page en grille",
     "image": "Image",
+    "image_and_videos": "Images et vidéos",
     "list_items": "Éléments de liste",
     "facets": "Facettes",
     "variants": "Variantes",
@@ -205,6 +206,7 @@
     "radio_card": "Carte radio"
   },
   "settings": {
+    "fetch_priority": "Priorité de chargement",
     "name": "Nom",
     "value": "Valeur",
     "checked": "Sélectionné par défaut",
@@ -635,6 +637,7 @@
     "lock": "Cadenas",
     "map_pin": "Épingle de carte",
     "medium": "Moyen",
+    "high": "Élevée",
     "none": "Aucun",
     "numbers": "Nombres",
     "nut_free": "Sans noix",
@@ -669,6 +672,7 @@
     "vimeo": "Vimeo",
     "washing": "Lavage",
     "auto": "Automatique",
+    "low": "Faible",
     "default": "Par défaut",
     "fill": "Remplir",
     "fit": "Ajuster",

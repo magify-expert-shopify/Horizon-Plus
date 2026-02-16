@@ -35,6 +35,7 @@
     "submit_button": "Tlačítko Odeslat",
     "grid_layout_selector": "Selektor rozvržení mřížky",
     "image": "Obrázek",
+    "image_and_videos": "Obrázky a videa",
     "list_items": "Položky seznamu",
     "facets": "Filtry",
     "variants": "Varianty",
@@ -205,6 +206,7 @@
     "radio_card": "Karta s volbou"
   },
   "settings": {
+    "fetch_priority": "Priorita načítání",
     "name": "Název",
     "value": "Hodnota",
     "checked": "Ve výchozím nastavení vybráno",
@@ -602,6 +604,7 @@
     "apple": "Apple",
     "arrow": "Šipka",
     "auto": "Automaticky",
+    "low": "Nízká",
     "banana": "Banán",
     "bottle": "Láhev",
     "box": "Rámeček",
@@ -647,6 +650,7 @@
     "m": "M",
     "map_pin": "Značka na mapě",
     "medium": "Střední",
+    "high": "Vysoká",
     "none": "Žádné",
     "numbers": "Čísla",
     "nut_free": "Bez ořechů",

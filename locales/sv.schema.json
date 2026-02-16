@@ -35,6 +35,7 @@
     "submit_button": "Skicka-knapp",
     "grid_layout_selector": "Rutnätslayoutväljare",
     "image": "Bild",
+    "image_and_videos": "Bilder och videor",
     "list_items": "Listobjekt",
     "facets": "Aspekter",
     "variants": "Varianter",
@@ -205,6 +206,7 @@
     "radio_card": "Alternativkort"
   },
   "settings": {
+    "fetch_priority": "Laddningsprioritet",
     "name": "Namn",
     "value": "Värde",
     "checked": "Markerad som standard",
@@ -602,6 +604,7 @@
     "apple": "Apple",
     "arrow": "Pil",
     "auto": "Auto",
+    "low": "Låg",
     "banana": "Banan",
     "bottle": "Flaska",
     "box": "Ruta",
@@ -647,6 +650,7 @@
     "m": "M",
     "map_pin": "Kartnål",
     "medium": "Medium",
+    "high": "Hög",
     "none": "Ingen",
     "numbers": "Siffror",
     "nut_free": "Nötfri",
