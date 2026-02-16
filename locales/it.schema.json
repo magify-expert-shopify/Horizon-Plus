@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "Tag",
+    "tag_list": "Elenco tag",
     "404": "404",
     "borders": "Bordi",
     "collapsible_row": "Riga comprimibile",
@@ -203,9 +205,15 @@
     "layered_slideshow": "Presentazione a livelli"
   },
   "presets": {
+    "tag": "Tag",
+    "tag_list": "Elenco tag",
     "radio_card": "Scheda opzione"
   },
   "settings": {
+    "list_type": "Tipo di elenco",
+    "disabled": "Disabilitato",
+    "html_tag": "Tag HTML",
+    "class": "Classe",
     "fetch_priority": "Priorità di caricamento",
     "name": "Nome",
     "value": "Valore",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "Aggiunta al carrello fissa"
   },
   "options": {
+    "ol": "Elenco numerato",
+    "ul": "Elenco puntato",
     "apple": "Mela",
     "arrow": "Freccia",
     "auto": "Automatico",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>Scopri la nostra collezione curata con i nostri articoli preferiti, scelti per unire stile e qualità.</p>"
   },
   "text_defaults": {
+    "tag": "Tag",
     "button_label": "Acquista ora",
     "collapsible_row": "Riga comprimibile",
     "heading": "Intestazione",

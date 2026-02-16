@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "Štítek",
+    "tag_list": "Seznam štítků",
     "404": "404",
     "borders": "Ohraničení",
     "collapsible_row": "Sbalitelný řádek",
@@ -203,9 +205,15 @@
     "layered_slideshow": "Vrstvená prezentace"
   },
   "presets": {
+    "tag": "Štítek",
+    "tag_list": "Seznam štítků",
     "radio_card": "Karta s volbou"
   },
   "settings": {
+    "list_type": "Typ seznamu",
+    "disabled": "Zakázáno",
+    "html_tag": "HTML tag",
+    "class": "Třída",
     "fetch_priority": "Priorita načítání",
     "name": "Název",
     "value": "Hodnota",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "Přilepené tlačítko Přidat do košíku"
   },
   "options": {
+    "ol": "Číslovaný seznam",
+    "ul": "Neuspořádaný seznam",
     "apple": "Apple",
     "arrow": "Šipka",
     "auto": "Automaticky",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>Objevte naši pečlivě sestavenou kolekci s vybranými oblíbenými kousky, které spojují styl a kvalitu.</p>"
   },
   "text_defaults": {
+    "tag": "Štítek",
     "button_label": "Nakupujte nyní",
     "collapsible_row": "Rozbalovací řádek",
     "heading": "Nadpis",

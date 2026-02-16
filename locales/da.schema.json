@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "Tag",
+    "tag_list": "Tagliste",
     "404": "404",
     "borders": "Kanter",
     "collapsible_row": "Række, der kan skjules",
@@ -203,9 +205,15 @@
     "layered_slideshow": "Diasshow i lag"
   },
   "presets": {
+    "tag": "Tag",
+    "tag_list": "Tagliste",
     "radio_card": "Radiokort"
   },
   "settings": {
+    "list_type": "Listetype",
+    "disabled": "Deaktiveret",
+    "html_tag": "HTML-tag",
+    "class": "Klasse",
     "fetch_priority": "Indlæsningsprioritet",
     "name": "Navn",
     "value": "Værdi",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "Fastgjort 'Læg i kurv'"
   },
   "options": {
+    "ol": "Nummereret liste",
+    "ul": "Punktopstilling",
     "apple": "Apple",
     "arrow": "Pil",
     "auto": "Auto",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>Opdag vores nøje udvalgte kollektion med håndplukkede favoritter, der forener stil og kvalitet.</p>"
   },
   "text_defaults": {
+    "tag": "Tag",
     "button_label": "Køb nu",
     "collapsible_row": "Række, der kan skjules",
     "heading": "Overskrift",

@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "Tagg",
+    "tag_list": "Tagglista",
     "404": "404",
     "borders": "Kantlinjer",
     "collapsible_row": "Hopfällbar rad",
@@ -203,9 +205,15 @@
     "layered_slideshow": "Bildspel med lager"
   },
   "presets": {
+    "tag": "Tagg",
+    "tag_list": "Tagglista",
     "radio_card": "Alternativkort"
   },
   "settings": {
+    "list_type": "Listtyp",
+    "disabled": "Inaktiverad",
+    "html_tag": "HTML-tagg",
+    "class": "Klass",
     "fetch_priority": "Laddningsprioritet",
     "name": "Namn",
     "value": "Värde",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "Fast ”Lägg till i varukorgen”"
   },
   "options": {
+    "ol": "Ordnad lista",
+    "ul": "Oordnad lista",
     "apple": "Apple",
     "arrow": "Pil",
     "auto": "Auto",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>Upptäck vår utvalda produktserie med handplockade favoriter som förenar stil och kvalitet.</p>"
   },
   "text_defaults": {
+    "tag": "Tagg",
     "button_label": "Handla nu",
     "collapsible_row": "Komprimerbar rad",
     "heading": "Rubrik",

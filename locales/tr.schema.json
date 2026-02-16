@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "Etiket",
+    "tag_list": "Etiket listesi",
     "404": "404",
     "borders": "Kenarlıklar",
     "collapsible_row": "Daraltılabilir satır",
@@ -203,9 +205,15 @@
     "layered_slideshow": "Katmanlı slayt gösterisi"
   },
   "presets": {
+    "tag": "Etiket",
+    "tag_list": "Etiket listesi",
     "radio_card": "Seçim kartı"
   },
   "settings": {
+    "list_type": "Liste türü",
+    "disabled": "Devre dışı",
+    "html_tag": "HTML etiketi",
+    "class": "Sınıf",
     "fetch_priority": "Yükleme önceliği",
     "name": "Ad",
     "value": "Değer",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "Sabit sepete ekle"
   },
   "options": {
+    "ol": "Sıralı liste",
+    "ul": "Sırasız liste",
     "apple": "Apple",
     "arrow": "Ok",
     "banana": "Muz",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>Stil ve kaliteyi bir araya getiren, özenle seçilmiş favorilerden oluşan koleksiyonumuzu keşfedin.</p>"
   },
   "text_defaults": {
+    "tag": "Etiket",
     "collapsible_row": "Daraltılabilir satır",
     "button_label": "Hemen alışveriş yap",
     "heading": "Başlık",

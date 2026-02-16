@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "태그",
+    "tag_list": "태그 목록",
     "404": "404",
     "borders": "테두리",
     "collapsible_row": "축소 가능 행",
@@ -203,9 +205,15 @@
     "layered_slideshow": "레이어드 슬라이드 쇼"
   },
   "presets": {
+    "tag": "태그",
+    "tag_list": "태그 목록",
     "radio_card": "라디오 카드"
   },
   "settings": {
+    "list_type": "목록 유형",
+    "disabled": "비활성화",
+    "html_tag": "HTML 태그",
+    "class": "클래스",
     "fetch_priority": "로드 우선순위",
     "name": "이름",
     "value": "값",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "고정 카트 추가"
   },
   "options": {
+    "ol": "순서 있는 목록",
+    "ul": "순서 없는 목록",
     "apple": "Apple",
     "arrow": "화살표",
     "banana": "바나나",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>스타일과 품질을 겸비한 엄선된 인기 제품으로 구성된 큐레이션 컬렉션을 만나보세요.</p>"
   },
   "text_defaults": {
+    "tag": "태그",
     "collapsible_row": "축소 가능 행",
     "button_label": "지금 쇼핑하기",
     "heading": "제목",

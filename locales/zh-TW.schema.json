@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "標籤",
+    "tag_list": "標籤清單",
     "404": "404",
     "borders": "邊框",
     "collapsible_row": "可摺疊列",
@@ -203,9 +205,15 @@
     "layered_slideshow": "分層輪播"
   },
   "presets": {
+    "tag": "標籤",
+    "tag_list": "標籤清單",
     "radio_card": "單選卡片"
   },
   "settings": {
+    "list_type": "清單類型",
+    "disabled": "已停用",
+    "html_tag": "HTML 標籤",
+    "class": "類別",
     "fetch_priority": "載入優先順序",
     "name": "名稱",
     "value": "值",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "固定加入購物車"
   },
   "options": {
+    "ol": "有序清單",
+    "ul": "無序清單",
     "apple": "Apple",
     "arrow": "箭頭",
     "auto": "自動",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>探索我們精心策劃的商品系列，精選兼具風格與品質的人氣款。</p>"
   },
   "text_defaults": {
+    "tag": "標籤",
     "button_label": "立即選購",
     "collapsible_row": "可摺疊列",
     "heading": "標題",

@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "Tag",
+    "tag_list": "Tag-Liste",
     "404": "404",
     "borders": "Ränder",
     "collapsible_row": "Einklappbare Zeile",
@@ -203,9 +205,15 @@
     "layered_slideshow": "Überlagerte Slideshow"
   },
   "presets": {
+    "tag": "Tag",
+    "tag_list": "Tag-Liste",
     "radio_card": "Auswahlkarte"
   },
   "settings": {
+    "list_type": "Listentyp",
+    "disabled": "Deaktiviert",
+    "html_tag": "HTML-Tag",
+    "class": "Klasse",
     "fetch_priority": "Ladepriorität",
     "name": "Name",
     "value": "Wert",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "Fixierte Schaltfläche „In den Warenkorb“"
   },
   "options": {
+    "ol": "Geordnete Liste",
+    "ul": "Ungeordnete Liste",
     "apple": "Apfel",
     "arrow": "Pfeil",
     "banana": "Banane",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>Entdecke unsere kuratierte Kollektion mit handverlesenen Favoriten, die Stil und Qualität vereinen.</p>"
   },
   "text_defaults": {
+    "tag": "Tag",
     "collapsible_row": "Einklappbare Zeile",
     "button_label": "Jetzt einkaufen",
     "heading": "Überschrift",

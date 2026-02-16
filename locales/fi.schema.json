@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "Tunniste",
+    "tag_list": "Tunnisteluettelo",
     "404": "404",
     "borders": "Reunukset",
     "collapsible_row": "Supistettava rivi",
@@ -203,9 +205,15 @@
     "layered_slideshow": "Kerroksittainen diaesitys"
   },
   "presets": {
+    "tag": "Tunniste",
+    "tag_list": "Tunnisteluettelo",
     "radio_card": "Valintakortti"
   },
   "settings": {
+    "list_type": "Luettelotyyppi",
+    "disabled": "Pois käytöstä",
+    "html_tag": "HTML-tagi",
+    "class": "Luokka",
     "fetch_priority": "Latausprioriteetti",
     "name": "Nimi",
     "value": "Arvo",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "Kiinteä Lisää ostoskoriin -toiminto"
   },
   "options": {
+    "ol": "Järjestetty lista",
+    "ul": "Järjestämätön lista",
     "apple": "Omena",
     "arrow": "Nuoli",
     "auto": "Automaattinen",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>Tutustu kuratoituun kokoelmaamme, joka sisältää käsin valittuja suosikkeja, joissa yhdistyvät tyyli ja laatu.</p>"
   },
   "text_defaults": {
+    "tag": "Tunniste",
     "button_label": "Osta nyt",
     "collapsible_row": "Kutistettava rivi",
     "heading": "Otsikko",

@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "Tag",
+    "tag_list": "Lista tagów",
     "404": "404",
     "borders": "Obramowania",
     "collapsible_row": "Zwijany wiersz",
@@ -203,9 +205,15 @@
     "layered_slideshow": "Warstwowy pokaz slajdów"
   },
   "presets": {
+    "tag": "Tag",
+    "tag_list": "Lista tagów",
     "radio_card": "Karta opcji"
   },
   "settings": {
+    "list_type": "Typ listy",
+    "disabled": "Wyłączone",
+    "html_tag": "Znacznik HTML",
+    "class": "Klasa",
     "fetch_priority": "Priorytet ładowania",
     "name": "Nazwa",
     "value": "Wartość",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "Przypięte dodawanie do koszyka"
   },
   "options": {
+    "ol": "Lista uporządkowana",
+    "ul": "Lista nieuporządkowana",
     "apple": "Apple",
     "arrow": "Strzałka",
     "banana": "Banan",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>Odkryj naszą kolekcję starannie wybranych produktów, które są połączeniem stylu i jakości.</p>"
   },
   "text_defaults": {
+    "tag": "Tag",
     "collapsible_row": "Wiersz zwijany",
     "button_label": "Kup teraz",
     "heading": "Nagłówek",

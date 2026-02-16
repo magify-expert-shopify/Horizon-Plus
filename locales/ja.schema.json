@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "タグ",
+    "tag_list": "タグリスト",
     "404": "404",
     "borders": "枠線",
     "collapsible_row": "折りたたみ可能な行",
@@ -203,9 +205,15 @@
     "layered_slideshow": "レイヤースライドショー"
   },
   "presets": {
+    "tag": "タグ",
+    "tag_list": "タグリスト",
     "radio_card": "ラジオカード"
   },
   "settings": {
+    "list_type": "リストタイプ",
+    "disabled": "無効",
+    "html_tag": "HTMLタグ",
+    "class": "クラス",
     "fetch_priority": "読み込み優先度",
     "name": "名前",
     "value": "値",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "固定「カートに追加」"
   },
   "options": {
+    "ol": "番号付きリスト",
+    "ul": "箇条書きリスト",
     "apple": "Apple",
     "arrow": "矢印",
     "auto": "自動",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>スタイルと品質を両立した、厳選されたお気に入りのアイテムが揃ったコレクションをご覧ください。</p>"
   },
   "text_defaults": {
+    "tag": "タグ",
     "button_label": "今すぐ購入",
     "collapsible_row": "折りたたみ可能な行",
     "heading": "見出し",

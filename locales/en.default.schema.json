@@ -235,6 +235,8 @@
     "media_type_info": "Features are populated from your menu links"
   },
   "names": {
+    "tag": "Tag",
+    "tag_list": "Tag list",
     "column": "Column",
     "product_title": "Product title",
     "custom_liquid": "Custom Liquid",
@@ -439,6 +441,8 @@
     "comparison_slider": "Comparison slider"
   },
   "options": {
+    "ol": "Ordered list",
+    "ul": "Unordered list",
     "above_carousel": "Above carousel",
     "accent": "Accent",
     "all": "All",
@@ -754,9 +758,15 @@
     "below_media": "Below media"
   },
   "presets": {
+    "tag": "Tag",
+    "tag_list": "Tag list",
     "radio_card": "Radio card"
   },
   "settings": {
+    "list_type": "List type",
+    "disabled": "Disabled",
+    "html_tag": "HTML tag",
+    "class": "Class",
     "fetch_priority": "Fetch priority",
     "name": "Name",
     "value": "Value",
@@ -1191,6 +1201,7 @@
     "y_position": "Vertical position"
   },
   "text_defaults": {
+    "tag": "Tag",
     "accordion_heading": "Accordion heading",
     "are_purchases_final_sale": "Are any purchases final sale?",
     "be_bold": "Be bold.",

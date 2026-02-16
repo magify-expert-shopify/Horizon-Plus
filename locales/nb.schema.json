@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "Tagg",
+    "tag_list": "Taggliste",
     "404": "404",
     "borders": "Kanter",
     "collapsible_row": "Sammenleggbar rad",
@@ -203,9 +205,15 @@
     "layered_slideshow": "Lagdelt lysbildefremvisning"
   },
   "presets": {
+    "tag": "Tagg",
+    "tag_list": "Taggliste",
     "radio_card": "Radiokort"
   },
   "settings": {
+    "list_type": "Listetype",
+    "disabled": "Deaktivert",
+    "html_tag": "HTML-tag",
+    "class": "Klasse",
     "fetch_priority": "Lasteprioritet",
     "name": "Navn",
     "value": "Verdi",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "Festet «Legg i handlekurv»"
   },
   "options": {
+    "ol": "Nummerert liste",
+    "ul": "Punktliste",
     "apple": "Eple",
     "arrow": "Pil",
     "auto": "Auto",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>Oppdag vår utvalgte samling med håndplukkede favoritter som kombinerer stil og kvalitet.</p>"
   },
   "text_defaults": {
+    "tag": "Tagg",
     "button_label": "Handle nå",
     "collapsible_row": "Sammenleggbar rad",
     "heading": "Overskrift",

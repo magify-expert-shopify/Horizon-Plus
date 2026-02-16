@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "tag": "标签",
+    "tag_list": "标签列表",
     "404": "404",
     "borders": "边框",
     "collapsible_row": "可折叠行",
@@ -203,9 +205,15 @@
     "layered_slideshow": "分层幻灯片"
   },
   "presets": {
+    "tag": "标签",
+    "tag_list": "标签列表",
     "radio_card": "单选卡片"
   },
   "settings": {
+    "list_type": "列表类型",
+    "disabled": "已禁用",
+    "html_tag": "HTML 标签",
+    "class": "类",
     "fetch_priority": "加载优先级",
     "name": "名称",
     "value": "值",
@@ -602,6 +610,8 @@
     "sticky_add_to_cart": "悬浮“添加到购物车”"
   },
   "options": {
+    "ol": "有序列表",
+    "ul": "无序列表",
     "apple": "Apple",
     "arrow": "箭头",
     "auto": "自动",
@@ -1054,6 +1064,7 @@
     "shop_collection": "<p>探索我们精心挑选的产品系列，这些热门商品兼具时尚风格与卓越品质。</p>"
   },
   "text_defaults": {
+    "tag": "标签",
     "button_label": "立即购买",
     "collapsible_row": "可折叠行",
     "heading": "标题",

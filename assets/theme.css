@@ -1,4 +1,33 @@
-/* Radio Card Group*/
+/* Tag */
+
+.tags {
+  display: flex;
+  gap: var(--gap-xs);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  font-size: 0.85rem;
+  line-height: 1;
+  white-space: nowrap;
+  opacity: 0.92;
+}
+
+@media screen and (min-width: 750px) {
+  .tags {
+    gap: var(--gap-sm);
+  }
+}
+
+/* Radio Card Group */
 
 .radio-group {
   max-width: 53.5rem;
