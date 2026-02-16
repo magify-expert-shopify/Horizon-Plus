@@ -86,6 +86,7 @@
     "group": "Grupo",
     "header": "Cabeçalho",
     "header_ctas": "CTAs do cabeçalho",
+    "radio_card": "Cartão de opção",
     "heading": "Título",
     "icons": "Ícones",
     "image_with_text": "Imagem com texto",
@@ -200,7 +201,13 @@
     "product_sku": "SKU",
     "layered_slideshow": "Apresentação em camadas"
   },
+  "presets": {
+    "radio_card": "Cartão de opção"
+  },
   "settings": {
+    "name": "Nome",
+    "value": "Valor",
+    "checked": "Selecionado por predefinição",
     "alignment": "Alinhamento",
     "autoplay": "Reprodução automática",
     "background": "Fundo",

@@ -85,6 +85,7 @@
     "group": "Groupe",
     "header": "En-tête",
     "header_ctas": "CTA de l'en-tête",
+    "radio_card": "Carte radio",
     "heading": "Titre",
     "icons": "Icônes",
     "image_with_text": "Image avec texte",
@@ -200,7 +201,13 @@
     "product_sku": "SKU",
     "layered_slideshow": "Diaporama superposé"
   },
+  "presets": {
+    "radio_card": "Carte radio"
+  },
   "settings": {
+    "name": "Nom",
+    "value": "Valeur",
+    "checked": "Sélectionné par défaut",
     "autoplay": "Lecture automatique",
     "background": "Arrière-plan",
     "border_radius": "Rayon de la bordure",

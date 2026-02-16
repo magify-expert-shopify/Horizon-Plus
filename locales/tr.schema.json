@@ -93,6 +93,7 @@
     "group": "Grup",
     "header": "Üstbilgi",
     "header_ctas": "Üst bilgi CTA'ları",
+    "radio_card": "Seçim kartı",
     "heading": "Başlık",
     "hero": "Hero",
     "icons": "Simgeler",
@@ -200,7 +201,13 @@
     "product_sku": "SKU",
     "layered_slideshow": "Katmanlı slayt gösterisi"
   },
+  "presets": {
+    "radio_card": "Seçim kartı"
+  },
   "settings": {
+    "name": "Ad",
+    "value": "Değer",
+    "checked": "Varsayılan olarak seçili",
     "autoplay": "Otomatik oynatma",
     "background": "Arka plan",
     "border_radius": "Köşe yarıçapı",

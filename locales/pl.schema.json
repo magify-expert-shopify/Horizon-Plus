@@ -88,6 +88,7 @@
     "group": "Grupa",
     "header": "Nagłówek",
     "header_ctas": "CTA nagłówka",
+    "radio_card": "Karta opcji",
     "heading": "Nagłówek",
     "icons": "Ikony",
     "image_with_text": "Obraz z tekstem",
@@ -200,7 +201,13 @@
     "product_sku": "SKU",
     "layered_slideshow": "Warstwowy pokaz slajdów"
   },
+  "presets": {
+    "radio_card": "Karta opcji"
+  },
   "settings": {
+    "name": "Nazwa",
+    "value": "Wartość",
+    "checked": "Domyślnie zaznaczone",
     "autoplay": "Autoodtwarzanie",
     "background": "Tło",
     "border_radius": "Promień narożnika",

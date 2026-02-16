@@ -85,6 +85,7 @@
     "group": "Skupina",
     "header": "Záhlaví",
     "header_ctas": "CTA de l'en-tête",
+    "radio_card": "Karta s volbou",
     "heading": "Nadpis",
     "icons": "Ikony",
     "image_with_text": "Obrázek s textem",
@@ -200,7 +201,13 @@
     "product_sku": "SKU",
     "layered_slideshow": "Vrstvená prezentace"
   },
+  "presets": {
+    "radio_card": "Karta s volbou"
+  },
   "settings": {
+    "name": "Název",
+    "value": "Hodnota",
+    "checked": "Ve výchozím nastavení vybráno",
     "alignment": "Zarovnání",
     "autoplay": "Automatické přehrávání",
     "background": "Pozadí",

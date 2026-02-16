@@ -87,6 +87,7 @@
     "group": "Groep",
     "header": "Koptekst",
     "header_ctas": "Header-CTA's",
+    "radio_card": "Keuzekaart",
     "heading": "Kop",
     "icons": "Pictogrammen",
     "image_with_text": "Afbeelding met tekst",
@@ -200,7 +201,13 @@
     "product_sku": "SKU",
     "layered_slideshow": "Gelaagde diavoorstelling"
   },
+  "presets": {
+    "radio_card": "Keuzekaart"
+  },
   "settings": {
+    "name": "Naam",
+    "value": "Waarde",
+    "checked": "Standaard geselecteerd",
     "autoplay": "Automatisch afspelen",
     "background": "Achtergrond",
     "border_radius": "Hoekradius",

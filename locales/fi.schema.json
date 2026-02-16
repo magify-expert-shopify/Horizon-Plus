@@ -83,6 +83,7 @@
     "group": "Ryhmä",
     "header": "Ylätunniste",
     "header_ctas": "Ylätunnisteen CTA:t",
+    "radio_card": "Valintakortti",
     "heading": "Otsikko",
     "icons": "Kuvakkeet",
     "image_with_text": "Kuva tekstillä",
@@ -200,7 +201,13 @@
     "product_sku": "SKU-koodi",
     "layered_slideshow": "Kerroksittainen diaesitys"
   },
+  "presets": {
+    "radio_card": "Valintakortti"
+  },
   "settings": {
+    "name": "Nimi",
+    "value": "Arvo",
+    "checked": "Valittu oletuksena",
     "alignment": "Tasaus",
     "autoplay": "Automaattinen toisto",
     "background": "Tausta",

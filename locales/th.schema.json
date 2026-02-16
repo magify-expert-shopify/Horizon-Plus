@@ -87,6 +87,7 @@
     "group": "กลุ่ม",
     "header": "ส่วนหัว",
     "header_ctas": "CTA ส่วนหัว",
+    "radio_card": "การ์ดตัวเลือก",
     "heading": "ส่วนหัวเรื่อง",
     "hero": "ฮีโร่",
     "icons": "ไอคอน",
@@ -200,7 +201,13 @@
     "product_sku": "SKU",
     "layered_slideshow": "สไลด์โชว์แบบซ้อน"
   },
+  "presets": {
+    "radio_card": "การ์ดตัวเลือก"
+  },
   "settings": {
+    "name": "ชื่อ",
+    "value": "ค่า",
+    "checked": "เลือกไว้โดยค่าเริ่มต้น",
     "alignment": "การจัดตำแหน่ง",
     "autoplay": "เล่นอัตโนมัติ",
     "background": "พื้นหลัง",

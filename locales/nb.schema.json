@@ -87,6 +87,7 @@
     "group": "Gruppe",
     "header": "Topptekst",
     "header_ctas": "Header-CTA-er",
+    "radio_card": "Radiokort",
     "heading": "Overskrift",
     "icons": "Ikoner",
     "image_with_text": "Bilde med tekst",
@@ -200,7 +201,13 @@
     "product_sku": "SKU",
     "layered_slideshow": "Lagdelt lysbildefremvisning"
   },
+  "presets": {
+    "radio_card": "Radiokort"
+  },
   "settings": {
+    "name": "Navn",
+    "value": "Verdi",
+    "checked": "Avkrysset som standard",
     "alignment": "Justering",
     "autoplay": "Autospill",
     "background": "Bakgrunn",

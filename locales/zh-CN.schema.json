@@ -86,6 +86,7 @@
     "group": "群组",
     "header": "标头",
     "header_ctas": "页眉 CTA",
+    "radio_card": "单选卡片",
     "heading": "标题",
     "icons": "图标",
     "image_with_text": "带文本图片",
@@ -200,7 +201,13 @@
     "product_sku": "SKU",
     "layered_slideshow": "分层幻灯片"
   },
+  "presets": {
+    "radio_card": "单选卡片"
+  },
   "settings": {
+    "name": "名称",
+    "value": "值",
+    "checked": "默认选中",
     "alignment": "对齐方式",
     "autoplay": "自动播放",
     "background": "背景",

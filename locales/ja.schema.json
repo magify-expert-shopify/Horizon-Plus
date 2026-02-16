@@ -88,6 +88,7 @@
     "group": "グループ",
     "header": "ヘッダー",
     "header_ctas": "ヘッダーCTA",
+    "radio_card": "ラジオカード",
     "heading": "見出し",
     "icons": "アイコン",
     "image_with_text": "テキスト付き画像",
@@ -200,7 +201,13 @@
     "product_sku": "SKU",
     "layered_slideshow": "レイヤースライドショー"
   },
+  "presets": {
+    "radio_card": "ラジオカード"
+  },
   "settings": {
+    "name": "名前",
+    "value": "値",
+    "checked": "デフォルトで選択",
     "alignment": "配置",
     "autoplay": "自動再生",
     "background": "背景",

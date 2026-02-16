@@ -90,6 +90,7 @@
     "group": "Gruppe",
     "header": "Header",
     "header_ctas": "Header-CTAs",
+    "radio_card": "Auswahlkarte",
     "heading": "Überschrift",
     "hero": "Hero",
     "hero_bottom_aligned": "Hero: Unten ausgerichtet",
@@ -200,7 +201,13 @@
     "product_sku": "SKU",
     "layered_slideshow": "Überlagerte Slideshow"
   },
+  "presets": {
+    "radio_card": "Auswahlkarte"
+  },
   "settings": {
+    "name": "Name",
+    "value": "Wert",
+    "checked": "Standardmäßig ausgewählt",
     "autoplay": "Autoplay",
     "background": "Hintergrund",
     "border_radius": "Eckenradius",

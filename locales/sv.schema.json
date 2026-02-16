@@ -84,6 +84,7 @@
     "group": "Grupp",
     "header": "Sidhuvud",
     "header_ctas": "Sidhuvud-CTA:er",
+    "radio_card": "Alternativkort",
     "heading": "Rubrik",
     "icons": "Ikoner",
     "image_with_text": "Bild med text",
@@ -200,7 +201,13 @@
     "product_sku": "Lagerhållningsenhet",
     "layered_slideshow": "Bildspel med lager"
   },
+  "presets": {
+    "radio_card": "Alternativkort"
+  },
   "settings": {
+    "name": "Namn",
+    "value": "Värde",
+    "checked": "Markerad som standard",
     "alignment": "Justering",
     "autoplay": "Autouppspelning",
     "background": "Bakgrund",

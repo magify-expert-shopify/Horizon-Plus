@@ -83,6 +83,7 @@
     "group": "群組",
     "header": "頁首",
     "header_ctas": "頁首 CTA",
+    "radio_card": "單選卡片",
     "heading": "標題",
     "icons": "圖示",
     "image_with_text": "附文字圖像",
@@ -200,7 +201,13 @@
     "product_sku": "存貨單位 (SKU)",
     "layered_slideshow": "分層輪播"
   },
+  "presets": {
+    "radio_card": "單選卡片"
+  },
   "settings": {
+    "name": "名稱",
+    "value": "值",
+    "checked": "預設勾選",
     "alignment": "對齊",
     "autoplay": "自動播放",
     "background": "背景",

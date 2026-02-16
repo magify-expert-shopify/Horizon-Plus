@@ -84,6 +84,7 @@
     "group": "그룹",
     "header": "머리글",
     "header_ctas": "헤더 CTA",
+    "radio_card": "라디오 카드",
     "heading": "제목",
     "icons": "아이콘",
     "image_with_text": "텍스트 포함 이미지",
@@ -200,7 +201,13 @@
     "product_sku": "SKU(재고 관리 코드)",
     "layered_slideshow": "레이어드 슬라이드 쇼"
   },
+  "presets": {
+    "radio_card": "라디오 카드"
+  },
   "settings": {
+    "name": "이름",
+    "value": "값",
+    "checked": "기본으로 선택됨",
     "autoplay": "자동 재생",
     "background": "배경",
     "border_radius": "모서리 반경",
