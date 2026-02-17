@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "第三级按钮",
     "dev_mode": "开发者模式",
     "tag": "标签",
     "tag_list": "标签列表",
@@ -863,6 +864,7 @@
     "body": "正文",
     "button_primary": "主要按钮",
     "button_secondary": "次要按钮",
+    "button_tertiary": "第三级按钮",
     "compact": "紧凑",
     "crop_to_fit": "裁剪以适应",
     "hidden": "隐藏",

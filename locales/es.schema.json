@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "Botón terciario",
     "dev_mode": "Modo desarrollador",
     "tag": "Etiqueta",
     "tag_list": "Lista de etiquetas",
@@ -865,6 +866,7 @@
     "body": "Cuerpo",
     "button_primary": "Botón principal",
     "button_secondary": "Botón secundario",
+    "button_tertiary": "Botón terciario",
     "crop_to_fit": "Recortar para ajustar",
     "hidden": "Oculto",
     "hint": "Indicación",

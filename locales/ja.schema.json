@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "第3ボタン",
     "dev_mode": "開発者モード",
     "tag": "タグ",
     "tag_list": "タグリスト",
@@ -863,6 +864,7 @@
     "body": "本文",
     "button_primary": "プライマリーボタン",
     "button_secondary": "セカンダリーボタン",
+    "button_tertiary": "ターシャリーボタン",
     "compact": "コンパクト",
     "crop_to_fit": "切り抜いて合わせる",
     "hidden": "非表示",

@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "Tertiäärinen painike",
     "dev_mode": "Kehittäjätila",
     "tag": "Tunniste",
     "tag_list": "Tunnisteluettelo",
@@ -866,6 +867,7 @@
     "body": "Leipäteksti",
     "button_primary": "Ensisijainen painike",
     "button_secondary": "Toissijainen painike",
+    "button_tertiary": "Tertiääripainike",
     "compact": "Kompakti",
     "hidden": "Piilotettu",
     "hint": "Vihje",

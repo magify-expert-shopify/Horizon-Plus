@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "Botão terciário",
     "dev_mode": "Modo de programador",
     "tag": "Tag",
     "tag_list": "Lista de tags",
@@ -862,6 +863,7 @@
     "body": "Corpo do texto",
     "button_primary": "Botão principal",
     "button_secondary": "Botão secundário",
+    "button_tertiary": "Botão terciário",
     "compact": "Compacto",
     "crop_to_fit": "Recortar para ajustar",
     "hidden": "Oculto",

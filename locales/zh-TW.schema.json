@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "第三級按鈕",
     "dev_mode": "開發者模式",
     "tag": "標籤",
     "tag_list": "標籤清單",
@@ -862,6 +863,7 @@
     "body": "內文",
     "button_primary": "主要按鈕",
     "button_secondary": "次要按鈕",
+    "button_tertiary": "第三級按鈕",
     "compact": "緊湊",
     "crop_to_fit": "裁切以符合",
     "hidden": "隱藏",

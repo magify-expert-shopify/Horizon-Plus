@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "3차 버튼",
     "dev_mode": "개발자 모드",
     "tag": "태그",
     "tag_list": "태그 목록",
@@ -863,6 +864,7 @@
     "body": "본문",
     "button_primary": "기본 버튼",
     "button_secondary": "보조 버튼",
+    "button_tertiary": "3차 버튼",
     "compact": "컴팩트",
     "crop_to_fit": "잘라서 맞춤",
     "hidden": "숨김",

@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "Przycisk trzeciorzędny",
     "dev_mode": "Tryb dewelopera",
     "tag": "Tag",
     "tag_list": "Lista tagów",
@@ -862,6 +863,7 @@
     "body": "Tekst podstawowy",
     "button_primary": "Przycisk podstawowy",
     "button_secondary": "Przycisk dodatkowy",
+    "button_tertiary": "Przycisk trzeciorzędny",
     "compact": "Kompaktowy",
     "crop_to_fit": "Przytnij, aby dopasować",
     "hidden": "Ukryty",

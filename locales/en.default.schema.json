@@ -213,6 +213,7 @@
   },
   "info": {
     "dev_mode": "Get access to more options, including the ability to inject code from settings.",
+    "custom_condition": "Return true to show the section, otherwise false.",
     "applies_on_image_only": "Applies to images only",
     "aspect_ratio_adjusted": "Adjusted in some layouts",
     "carousel_hover_behavior_not_supported": "\"Carousel\" hover is not supported when \"Carousel\" type is selected at the section level",
@@ -237,6 +238,7 @@
     "media_type_info": "Features are populated from your menu links"
   },
   "names": {
+    "tertiary_button": "Tertiary button",
     "dev_mode": "Developer mode",
     "tag": "Tag",
     "tag_list": "Tag list",
@@ -479,6 +481,7 @@
     "button": "Button",
     "button_primary": "Primary button",
     "button_secondary": "Secondary button",
+    "button_tertiary": "Tertiary button",
     "buttons": "Buttons",
     "capitalize": "Capitalize",
     "caption": "Caption",

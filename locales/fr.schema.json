@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "Bouton tertiaire",
     "dev_mode": "Mode développeur",
     "tag": "Tag",
     "tag_list": "Liste de tags",
@@ -212,7 +213,7 @@
   },
   "settings": {
     "custom_condition": "Condition personnalisée",
-    "display_mode": "Mode d affichage",
+    "display_mode": "Mode d'affichage",
     "dev_mode_enabled": "Activer le mode développeur",
     "list_type": "Type de liste",
     "disabled": "Désactivé",
@@ -616,7 +617,7 @@
   "options": {
     "custom_condition": "Condition personnalisée",
     "all_pages": "Toutes les pages",
-    "homepage_only": "Page d accueil uniquement",
+    "homepage_only": "Page d'accueil uniquement",
     "ol": "Liste ordonnée",
     "ul": "Liste non ordonnée",
     "apple": "Pomme",
@@ -864,6 +865,7 @@
     "body": "Corps de texte",
     "button_primary": "Bouton principal",
     "button_secondary": "Bouton secondaire",
+    "button_tertiary": "Bouton tertiaire",
     "crop_to_fit": "Recadrer pour ajuster",
     "hidden": "Masqué",
     "hint": "Indice",

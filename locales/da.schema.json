@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "Tertiær knap",
     "dev_mode": "Udviklertilstand",
     "tag": "Tag",
     "tag_list": "Tagliste",
@@ -862,6 +863,7 @@
     "body": "Brødtekst",
     "button_primary": "Primær knap",
     "button_secondary": "Sekundær knap",
+    "button_tertiary": "Tertiær knap",
     "compact": "Kompakt",
     "crop_to_fit": "Beskær for at tilpasse",
     "hidden": "Skjult",

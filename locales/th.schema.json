@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "ปุ่มระดับสาม",
     "dev_mode": "โหมดนักพัฒนา",
     "tag": "แท็ก",
     "tag_list": "รายการแท็ก",
@@ -863,6 +864,7 @@
     "body": "เนื้อหา",
     "button_primary": "ปุ่มหลัก",
     "button_secondary": "ปุ่มรอง",
+    "button_tertiary": "ปุ่มระดับที่สาม",
     "compact": "กะทัดรัด",
     "crop_to_fit": "ครอบตัดให้พอดี",
     "hidden": "ซ่อน",

@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "Terciární tlačítko",
     "dev_mode": "Režim vývojáře",
     "tag": "Štítek",
     "tag_list": "Seznam štítků",
@@ -863,6 +864,7 @@
     "body": "Text",
     "button_primary": "Primární tlačítko",
     "button_secondary": "Sekundární tlačítko",
+    "button_tertiary": "Terciární tlačítko",
     "compact": "Kompaktní",
     "crop_to_fit": "Oříznout na velikost",
     "hidden": "Skryté",

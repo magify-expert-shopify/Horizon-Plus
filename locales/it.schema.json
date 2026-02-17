@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "tertiary_button": "Pulsante terziario",
     "dev_mode": "Modalità sviluppatore",
     "tag": "Tag",
     "tag_list": "Elenco tag",
@@ -860,6 +861,7 @@
     "below_image": "Sotto l'immagine",
     "button_primary": "Pulsante principale",
     "button_secondary": "Pulsante secondario",
+    "button_tertiary": "Pulsante terziario",
     "hidden": "Non in elenco",
     "on_image": "Sull'immagine",
     "spotlight": "Spotlight",
