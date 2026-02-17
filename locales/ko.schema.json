@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "개발자 모드",
     "tag": "태그",
     "tag_list": "태그 목록",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "라디오 카드"
   },
   "settings": {
+    "custom_condition": "사용자 지정 조건",
+    "display_mode": "표시 모드",
+    "dev_mode_enabled": "개발자 모드 활성화",
     "list_type": "목록 유형",
     "disabled": "비활성화",
     "html_tag": "HTML 태그",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "고정 카트 추가"
   },
   "options": {
+    "custom_condition": "사용자 지정 조건",
+    "all_pages": "모든 페이지",
+    "homepage_only": "홈페이지만",
     "ol": "순서 있는 목록",
     "ul": "순서 없는 목록",
     "apple": "Apple",
@@ -890,6 +897,7 @@
     "full_frame": "전체 프레임"
   },
   "content": {
+    "dev_mode": "개발자 모드",
     "background_video": "배경 비디오",
     "describe_the_video_for": "화면 읽기 프로그램을 사용하는 고객을 위해 비디오에 대해 설명하세요. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)",
     "width_is_automatically_optimized": "너비는 모바일에 맞게 자동으로 최적화됩니다.",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "신상품"
   },
   "info": {
+    "custom_condition": "섹션을 표시하려면 true, 아니면 false를 반환하세요.",
+    "dev_mode": "더 많은 옵션에 접근할 수 있으며, 특히 설정에서 코드를 삽입할 수 있습니다.",
     "carousel_layout_on_mobile": "모바일에서는 항상 캐러셀이 사용됩니다.",
     "video_alt_text": "보조 기술 사용자를 위해 비디오를 설명하세요",
     "video_autoplay": "비디오는 기본적으로 음소거됩니다",

@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "开发者模式",
     "tag": "标签",
     "tag_list": "标签列表",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "单选卡片"
   },
   "settings": {
+    "custom_condition": "自定义条件",
+    "display_mode": "显示模式",
+    "dev_mode_enabled": "启用开发者模式",
     "list_type": "列表类型",
     "disabled": "已禁用",
     "html_tag": "HTML 标签",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "悬浮“添加到购物车”"
   },
   "options": {
+    "custom_condition": "自定义条件",
+    "all_pages": "所有页面",
+    "homepage_only": "仅首页",
     "ol": "有序列表",
     "ul": "无序列表",
     "apple": "Apple",
@@ -890,6 +897,7 @@
     "full_frame": "全画幅"
   },
   "content": {
+    "dev_mode": "开发者模式",
     "advanced": "高级",
     "background_image": "背景图片",
     "background_video": "背景视频",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "新品上架"
   },
   "info": {
+    "custom_condition": "返回 true 显示该分区，否则返回 false。",
+    "dev_mode": "可访问更多选项，尤其是可从设置中注入代码。",
     "video_alt_text": "为使用辅助技术的用户描述视频",
     "video_autoplay": "视频将默认静音",
     "video_external": "使用 YouTube 或 Vimeo URL",

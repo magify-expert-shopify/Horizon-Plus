@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "Utviklermodus",
     "tag": "Tagg",
     "tag_list": "Taggliste",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "Radiokort"
   },
   "settings": {
+    "custom_condition": "Egendefinert betingelse",
+    "display_mode": "Visningsmodus",
+    "dev_mode_enabled": "Aktiver utviklermodus",
     "list_type": "Listetype",
     "disabled": "Deaktivert",
     "html_tag": "HTML-tag",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "Festet «Legg i handlekurv»"
   },
   "options": {
+    "custom_condition": "Egendefinert betingelse",
+    "all_pages": "Alle sider",
+    "homepage_only": "Kun hjemmeside",
     "ol": "Nummerert liste",
     "ul": "Punktliste",
     "apple": "Eple",
@@ -890,6 +897,7 @@
     "full_frame": "Full ramme"
   },
   "content": {
+    "dev_mode": "Utviklermodus",
     "advanced": "Avansert",
     "background_image": "Bakgrunnsbilde",
     "background_video": "Bakgrunnsvideo",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "Nyheter"
   },
   "info": {
+    "custom_condition": "Returner true for å vise seksjonen, ellers false.",
+    "dev_mode": "Gir tilgang til flere alternativer, blant annet muligheten til å injisere kode fra innstillingene.",
     "carousel_layout_on_mobile": "Karusell brukes alltid på mobil",
     "video_alt_text": "Beskriv videoen for brukere av hjelpeteknologi",
     "video_autoplay": "Videoer dempes som standard",

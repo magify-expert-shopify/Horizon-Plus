@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "Utvecklarläge",
     "tag": "Tagg",
     "tag_list": "Tagglista",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "Alternativkort"
   },
   "settings": {
+    "custom_condition": "Anpassat villkor",
+    "display_mode": "Visningsläge",
+    "dev_mode_enabled": "Aktivera utvecklarläge",
     "list_type": "Listtyp",
     "disabled": "Inaktiverad",
     "html_tag": "HTML-tagg",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "Fast ”Lägg till i varukorgen”"
   },
   "options": {
+    "custom_condition": "Anpassat villkor",
+    "all_pages": "Alla sidor",
+    "homepage_only": "Endast startsida",
     "ol": "Ordnad lista",
     "ul": "Oordnad lista",
     "apple": "Apple",
@@ -890,6 +897,7 @@
     "full_frame": "Helskärm"
   },
   "content": {
+    "dev_mode": "Utvecklarläge",
     "advanced": "Avancerat",
     "background_image": "Bakgrundsbild",
     "background_video": "Bakgrundsvideo",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "Nyheter"
   },
   "info": {
+    "custom_condition": "Returnera true för att visa sektionen, annars false.",
+    "dev_mode": "Ger åtkomst till fler alternativ, inklusive möjligheten att injicera kod från inställningarna.",
     "video_alt_text": "Beskriv videon för användare av hjälpmedelsteknik",
     "video_autoplay": "Videor kommer att vara tystade som standard",
     "video_external": "Använd en URL från YouTube eller Vimeo",

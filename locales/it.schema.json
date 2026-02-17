@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "Modalità sviluppatore",
     "tag": "Tag",
     "tag_list": "Elenco tag",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "Scheda opzione"
   },
   "settings": {
+    "custom_condition": "Condizione personalizzata",
+    "display_mode": "Modalita di visualizzazione",
+    "dev_mode_enabled": "Abilita modalità sviluppatore",
     "list_type": "Tipo di elenco",
     "disabled": "Disabilitato",
     "html_tag": "Tag HTML",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "Aggiunta al carrello fissa"
   },
   "options": {
+    "custom_condition": "Condizione personalizzata",
+    "all_pages": "Tutte le pagine",
+    "homepage_only": "Solo home page",
     "ol": "Elenco numerato",
     "ul": "Elenco puntato",
     "apple": "Mela",
@@ -890,6 +897,7 @@
     "full_frame": "A schermo intero"
   },
   "content": {
+    "dev_mode": "Modalità sviluppatore",
     "advanced": "Avanzate",
     "background_image": "Immagine di sfondo",
     "background_video": "Video di sfondo",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "Nuovi arrivi"
   },
   "info": {
+    "custom_condition": "Restituisci true per mostrare la sezione, altrimenti false.",
+    "dev_mode": "Consente l’accesso a più opzioni, inclusa la possibilità di iniettare codice dalle impostazioni.",
     "carousel_layout_on_mobile": "Sui dispositivi mobili viene sempre utilizzato il carosello.",
     "video_alt_text": "Descrivi il video per gli utenti di tecnologie assistive",
     "video_autoplay": "I video saranno senza audio per impostazione predefinita",

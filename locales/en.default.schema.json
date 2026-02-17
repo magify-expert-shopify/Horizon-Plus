@@ -32,6 +32,7 @@
     "text": "Text"
   },
   "content": {
+    "dev_mode": "Developer mode",
     "visible_if_collection_has_more_products": "Visible if collection has more products than shown",
     "advanced": "Advanced",
     "appearance": "Appearance",
@@ -211,6 +212,7 @@
     "work_quickly_to_ship": "<p>We will work quickly to ship your order as soon as possible. Once your order has shipped, you will receive an email with further information. Delivery times vary depending on your location.</p>"
   },
   "info": {
+    "dev_mode": "Get access to more options, including the ability to inject code from settings.",
     "applies_on_image_only": "Applies to images only",
     "aspect_ratio_adjusted": "Adjusted in some layouts",
     "carousel_hover_behavior_not_supported": "\"Carousel\" hover is not supported when \"Carousel\" type is selected at the section level",
@@ -235,6 +237,7 @@
     "media_type_info": "Features are populated from your menu links"
   },
   "names": {
+    "dev_mode": "Developer mode",
     "tag": "Tag",
     "tag_list": "Tag list",
     "column": "Column",
@@ -441,6 +444,8 @@
     "comparison_slider": "Comparison slider"
   },
   "options": {
+    "all_pages": "All pages",
+    "homepage_only": "Homepage only",
     "ol": "Ordered list",
     "ul": "Unordered list",
     "above_carousel": "Above carousel",
@@ -763,6 +768,9 @@
     "radio_card": "Radio card"
   },
   "settings": {
+    "custom_condition": "Custom condition",
+    "display_mode": "Display mode",
+    "dev_mode_enabled": "Enable developer mode",
     "list_type": "List type",
     "disabled": "Disabled",
     "html_tag": "HTML tag",

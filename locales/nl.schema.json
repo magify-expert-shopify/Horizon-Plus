@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "Ontwikkelaarsmodus",
     "tag": "Tag",
     "tag_list": "Taglijst",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "Keuzekaart"
   },
   "settings": {
+    "custom_condition": "Aangepaste voorwaarde",
+    "display_mode": "Weergavemodus",
+    "dev_mode_enabled": "Ontwikkelaarsmodus inschakelen",
     "list_type": "Lijsttype",
     "disabled": "Uitgeschakeld",
     "html_tag": "HTML-tag",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "Vaste 'Toevoegen aan winkelwagen'-balk"
   },
   "options": {
+    "custom_condition": "Aangepaste voorwaarde",
+    "all_pages": "Alle pagina s",
+    "homepage_only": "Alleen homepage",
     "ol": "Geordende lijst",
     "ul": "Ongeordende lijst",
     "apple": "Apple",
@@ -890,6 +897,7 @@
     "full_frame": "Volledig kader"
   },
   "content": {
+    "dev_mode": "Ontwikkelaarsmodus",
     "background_video": "Achtergrondvideo",
     "describe_the_video_for": "Beschrijf de video voor klanten die schermlezers gebruiken. [Meer informatie](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)",
     "width_is_automatically_optimized": "Breedte wordt automatisch geoptimaliseerd voor mobiel.",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "Nieuw binnen"
   },
   "info": {
+    "custom_condition": "Geef true terug om de sectie te tonen, anders false.",
+    "dev_mode": "Geeft toegang tot meer opties, waaronder de mogelijkheid om code te injecteren vanuit de instellingen.",
     "carousel_layout_on_mobile": "Op mobiel wordt altijd een carrousel gebruikt",
     "video_alt_text": "Beschrijf de video voor gebruikers van ondersteunende technologie",
     "video_autoplay": "Video's worden standaard gedempt",

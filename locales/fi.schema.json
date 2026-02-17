@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "Kehittäjätila",
     "tag": "Tunniste",
     "tag_list": "Tunnisteluettelo",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "Valintakortti"
   },
   "settings": {
+    "custom_condition": "Mukautettu ehto",
+    "display_mode": "Näyttötila",
+    "dev_mode_enabled": "Ota kehittäjätila käyttöön",
     "list_type": "Luettelotyyppi",
     "disabled": "Pois käytöstä",
     "html_tag": "HTML-tagi",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "Kiinteä Lisää ostoskoriin -toiminto"
   },
   "options": {
+    "custom_condition": "Mukautettu ehto",
+    "all_pages": "Kaikki sivut",
+    "homepage_only": "Vain etusivu",
     "ol": "Järjestetty lista",
     "ul": "Järjestämätön lista",
     "apple": "Omena",
@@ -890,6 +897,7 @@
     "full_frame": "Koko ruutu"
   },
   "content": {
+    "dev_mode": "Kehittäjätila",
     "advanced": "Lisäasetukset",
     "background_image": "Taustakuva",
     "background_video": "Taustavideo",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "Uutuudet"
   },
   "info": {
+    "custom_condition": "Palauta true näyttääksesi osion, muuten false.",
+    "dev_mode": "Saat käyttöösi lisää vaihtoehtoja, mukaan lukien mahdollisuus lisätä koodia suoraan asetuksista.",
     "carousel_layout_on_mobile": "Mobiilissa käytetään aina karusellia.",
     "video_alt_text": "Kuvaile video avustavan teknologian käyttäjille",
     "video_autoplay": "Videot mykistetään oletusarvoisesti",

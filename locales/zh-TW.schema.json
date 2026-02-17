@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "開發者模式",
     "tag": "標籤",
     "tag_list": "標籤清單",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "單選卡片"
   },
   "settings": {
+    "custom_condition": "自訂條件",
+    "display_mode": "顯示模式",
+    "dev_mode_enabled": "啟用開發者模式",
     "list_type": "清單類型",
     "disabled": "已停用",
     "html_tag": "HTML 標籤",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "固定加入購物車"
   },
   "options": {
+    "custom_condition": "自訂條件",
+    "all_pages": "所有頁面",
+    "homepage_only": "僅首頁",
     "ol": "有序清單",
     "ul": "無序清單",
     "apple": "Apple",
@@ -890,6 +897,7 @@
     "full_frame": "滿版"
   },
   "content": {
+    "dev_mode": "開發者模式",
     "advanced": "進階",
     "background_image": "背景圖片",
     "background_video": "背景影片",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "新品上市"
   },
   "info": {
+    "custom_condition": "回傳 true 以顯示此區塊，否則回傳 false。",
+    "dev_mode": "可使用更多選項，尤其可從設定中注入程式碼。",
     "carousel_layout_on_mobile": "在行動裝置上一律使用輪播",
     "video_alt_text": "為使用輔助技術的使用者描述影片",
     "video_autoplay": "影片預設為靜音播放",

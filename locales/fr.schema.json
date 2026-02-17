@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "Mode développeur",
     "tag": "Tag",
     "tag_list": "Liste de tags",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "Carte radio"
   },
   "settings": {
+    "custom_condition": "Condition personnalisée",
+    "display_mode": "Mode d affichage",
+    "dev_mode_enabled": "Activer le mode développeur",
     "list_type": "Type de liste",
     "disabled": "Désactivé",
     "html_tag": "Balise HTML",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "Ajout au panier flottant"
   },
   "options": {
+    "custom_condition": "Condition personnalisée",
+    "all_pages": "Toutes les pages",
+    "homepage_only": "Page d accueil uniquement",
     "ol": "Liste ordonnée",
     "ul": "Liste non ordonnée",
     "apple": "Pomme",
@@ -890,6 +897,7 @@
     "full_frame": "Plein cadre"
   },
   "content": {
+    "dev_mode": "Mode développeur",
     "background_video": "Vidéo de fond",
     "describe_the_video_for": "Décrivez la vidéo pour les clients qui utilisent des lecteurs d’écran. [En savoir plus](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)",
     "width_is_automatically_optimized": "La largeur est automatiquement optimisée pour les appareils mobiles.",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "Nouveautés"
   },
   "info": {
+    "custom_condition": "Retournez true pour afficher la section, sinon false.",
+    "dev_mode": "Donne accès à plus d’options, notamment la possibilité d’injecter du code depuis les paramètres.",
     "carousel_layout_on_mobile": "Le carrousel est toujours utilisé sur mobile",
     "video_alt_text": "Décrivez la vidéo pour les utilisateurs de technologies d’assistance",
     "video_autoplay": "Les vidéos seront mises en sourdine par défaut",

@@ -2330,5 +2330,20 @@
         "default": "equal-width-buttons"
       }
     ]
+  },
+  {
+    "name": "t:names.dev_mode",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "dev_mode_enabled",
+        "label": "t:settings.dev_mode_enabled",
+        "default": false
+      },
+      {
+        "type": "paragraph",
+        "content": "t:info.dev_mode"
+      }
+    ]
   }
 ]

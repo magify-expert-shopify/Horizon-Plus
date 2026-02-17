@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "Entwicklermodus",
     "tag": "Tag",
     "tag_list": "Tag-Liste",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "Auswahlkarte"
   },
   "settings": {
+    "custom_condition": "Benutzerdefinierte Bedingung",
+    "display_mode": "Anzeigemodus",
+    "dev_mode_enabled": "Entwicklermodus aktivieren",
     "list_type": "Listentyp",
     "disabled": "Deaktiviert",
     "html_tag": "HTML-Tag",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "Fixierte Schaltfläche „In den Warenkorb“"
   },
   "options": {
+    "custom_condition": "Benutzerdefinierte Bedingung",
+    "all_pages": "Alle Seiten",
+    "homepage_only": "Nur Startseite",
     "ol": "Geordnete Liste",
     "ul": "Ungeordnete Liste",
     "apple": "Apfel",
@@ -890,6 +897,7 @@
     "full_frame": "Vollbild"
   },
   "content": {
+    "dev_mode": "Entwicklermodus",
     "background_video": "Hintergrundvideo",
     "describe_the_video_for": "Beschreibe das Video für Kunden, die Screenreader verwenden. [Mehr erfahren](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)",
     "width_is_automatically_optimized": "Die Breite wird für Mobilgeräte automatisch optimiert.",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "Neuheiten"
   },
   "info": {
+    "custom_condition": "Geben Sie true zurück, um den Abschnitt anzuzeigen, sonst false.",
+    "dev_mode": "Sie erhalten Zugriff auf mehr Optionen, insbesondere auf die Möglichkeit, Code direkt über die Einstellungen einzufügen.",
     "video_alt_text": "Beschreibe das Video für Benutzer von Hilfstechnologien",
     "video_autoplay": "Videos werden standardmäßig stummgeschaltet",
     "video_external": "Verwende eine YouTube- oder Vimeo-URL",

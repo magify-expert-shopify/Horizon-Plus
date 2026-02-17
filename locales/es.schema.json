@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "Modo desarrollador",
     "tag": "Etiqueta",
     "tag_list": "Lista de etiquetas",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "Tarjeta de opción"
   },
   "settings": {
+    "custom_condition": "Condición personalizada",
+    "display_mode": "Modo de visualización",
+    "dev_mode_enabled": "Activar modo desarrollador",
     "list_type": "Tipo de lista",
     "disabled": "Deshabilitado",
     "html_tag": "Etiqueta HTML",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "Agregar al carrito fijo"
   },
   "options": {
+    "custom_condition": "Condición personalizada",
+    "all_pages": "Todas las páginas",
+    "homepage_only": "Solo página de inicio",
     "ol": "Lista ordenada",
     "ul": "Lista desordenada",
     "apple": "Apple",
@@ -890,6 +897,7 @@
     "full_frame": "Marco completo"
   },
   "content": {
+    "dev_mode": "Modo desarrollador",
     "advanced": "Avanzado",
     "background_image": "Imagen de fondo",
     "background_video": "Video de fondo",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "Novedades"
   },
   "info": {
+    "custom_condition": "Devuelve true para mostrar la sección; en caso contrario, false.",
+    "dev_mode": "Obtén acceso a más opciones, incluida la posibilidad de inyectar código desde la configuración.",
     "carousel_layout_on_mobile": "En dispositivos móviles siempre se usa el carrusel",
     "video_alt_text": "Describe el video para personas usuarias de tecnologías de asistencia",
     "video_autoplay": "Los videos estarán silenciados de forma predeterminada",

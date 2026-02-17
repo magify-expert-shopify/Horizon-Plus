@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "Režim vývojáře",
     "tag": "Štítek",
     "tag_list": "Seznam štítků",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "Karta s volbou"
   },
   "settings": {
+    "custom_condition": "Vlastní podmínka",
+    "display_mode": "Režim zobrazení",
+    "dev_mode_enabled": "Povolit režim vývojáře",
     "list_type": "Typ seznamu",
     "disabled": "Zakázáno",
     "html_tag": "HTML tag",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "Přilepené tlačítko Přidat do košíku"
   },
   "options": {
+    "custom_condition": "Vlastní podmínka",
+    "all_pages": "Všechny stránky",
+    "homepage_only": "Pouze domovská stránka",
     "ol": "Číslovaný seznam",
     "ul": "Neuspořádaný seznam",
     "apple": "Apple",
@@ -890,6 +897,7 @@
     "full_frame": "Přes celou plochu"
   },
   "content": {
+    "dev_mode": "Režim vývojáře",
     "advanced": "Pokročilé",
     "background_image": "Obrázek na pozadí",
     "background_video": "Video na pozadí",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "Novinky"
   },
   "info": {
+    "custom_condition": "Vraťte hodnotu true pro zobrazení sekce, jinak false.",
+    "dev_mode": "Získáte přístup k více možnostem, včetně možnosti vkládat kód přímo z nastavení.",
     "video_alt_text": "Popište video pro uživatele asistivních technologií",
     "video_autoplay": "Videa budou ve výchozím nastavení ztlumená",
     "video_external": "Použijte URL z YouTube nebo Vimeo",

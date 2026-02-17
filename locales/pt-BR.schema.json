@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "Modo desenvolvedor",
     "tag": "Tag",
     "tag_list": "Lista de tags",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "Cartão de opção"
   },
   "settings": {
+    "custom_condition": "Condicao personalizada",
+    "display_mode": "Modo de exibicao",
+    "dev_mode_enabled": "Ativar modo desenvolvedor",
     "list_type": "Tipo de lista",
     "disabled": "Desativado",
     "html_tag": "Tag HTML",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "Adicionar ao carrinho fixo"
   },
   "options": {
+    "custom_condition": "Condicao personalizada",
+    "all_pages": "Todas as paginas",
+    "homepage_only": "Somente pagina inicial",
     "ol": "Lista ordenada",
     "ul": "Lista não ordenada",
     "apple": "Apple",
@@ -890,6 +897,7 @@
     "full_frame": "Tela cheia"
   },
   "content": {
+    "dev_mode": "Modo desenvolvedor",
     "advanced": "Avançado",
     "background_image": "Imagem de fundo",
     "background_video": "Vídeo de fundo",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "Novidades"
   },
   "info": {
+    "custom_condition": "Retorne true para mostrar a secao; caso contrario, false.",
+    "dev_mode": "Dá acesso a mais opções, incluindo a possibilidade de injetar código pelas configurações.",
     "video_alt_text": "Descreva o vídeo para usuários de tecnologia assistiva",
     "video_autoplay": "Os vídeos ficarão sem som por padrão",
     "video_external": "Use um URL do YouTube ou do Vimeo",

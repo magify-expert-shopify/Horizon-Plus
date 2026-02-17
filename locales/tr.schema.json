@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "Geliştirici modu",
     "tag": "Etiket",
     "tag_list": "Etiket listesi",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "Seçim kartı"
   },
   "settings": {
+    "custom_condition": "Ozel kosul",
+    "display_mode": "Gorunum modu",
+    "dev_mode_enabled": "Geliştirici modunu etkinleştir",
     "list_type": "Liste türü",
     "disabled": "Devre dışı",
     "html_tag": "HTML etiketi",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "Sabit sepete ekle"
   },
   "options": {
+    "custom_condition": "Ozel kosul",
+    "all_pages": "Tum sayfalar",
+    "homepage_only": "Yalnizca anasayfa",
     "ol": "Sıralı liste",
     "ul": "Sırasız liste",
     "apple": "Apple",
@@ -890,6 +897,7 @@
     "full_frame": "Tam çerçeve"
   },
   "content": {
+    "dev_mode": "Geliştirici modu",
     "background_video": "Arka plan videosu",
     "describe_the_video_for": "Ekran okuyucu kullanan müşteriler için videoyu açıklayın. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)",
     "width_is_automatically_optimized": "Genişlik, mobil cihazlar için otomatik olarak optimize edilir.",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "Yeni gelenler"
   },
   "info": {
+    "custom_condition": "Bolumu gostermek icin true, aksi halde false dondurun.",
+    "dev_mode": "Ayarlar üzerinden kod enjekte etme dahil daha fazla seçeneğe erişim sağlar.",
     "video_alt_text": "Yardımcı teknoloji kullanıcıları için videoyu açıklayın",
     "video_autoplay": "Videolar varsayılan olarak sessize alınır",
     "video_external": "Bir YouTube veya Vimeo URL'si kullanın",

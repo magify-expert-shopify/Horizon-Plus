@@ -9,6 +9,7 @@
  */
 {
   "names": {
+    "dev_mode": "Tryb dewelopera",
     "tag": "Tag",
     "tag_list": "Lista tagów",
     "404": "404",
@@ -210,6 +211,9 @@
     "radio_card": "Karta opcji"
   },
   "settings": {
+    "custom_condition": "Warunek niestandardowy",
+    "display_mode": "Tryb wyświetlania",
+    "dev_mode_enabled": "Włącz tryb dewelopera",
     "list_type": "Typ listy",
     "disabled": "Wyłączone",
     "html_tag": "Znacznik HTML",
@@ -610,6 +614,9 @@
     "sticky_add_to_cart": "Przypięte dodawanie do koszyka"
   },
   "options": {
+    "custom_condition": "Warunek niestandardowy",
+    "all_pages": "Wszystkie strony",
+    "homepage_only": "Tylko strona główna",
     "ol": "Lista uporządkowana",
     "ul": "Lista nieuporządkowana",
     "apple": "Apple",
@@ -890,6 +897,7 @@
     "full_frame": "Pełna klatka"
   },
   "content": {
+    "dev_mode": "Tryb dewelopera",
     "background_video": "Wideo w tle",
     "describe_the_video_for": "Opisz wideo dla klientów korzystających z czytników ekranu. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/theme-structure/theme-features#video-block)",
     "width_is_automatically_optimized": "Szerokość jest automatycznie optymalizowana pod kątem urządzeń mobilnych.",
@@ -1102,6 +1110,8 @@
     "new_arrivals": "Nowości"
   },
   "info": {
+    "custom_condition": "Zwróć true, aby wyświetlić sekcję, w przeciwnym razie false.",
+    "dev_mode": "Daje dostęp do większej liczby opcji, w tym możliwości wstrzykiwania kodu z ustawień.",
     "video_alt_text": "Opisz wideo dla użytkowników technologii wspomagających",
     "video_autoplay": "Domyślnie filmy będą wyciszone",
     "video_external": "Użyj adresu URL z YouTube lub Vimeo",
