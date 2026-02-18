@@ -212,6 +212,8 @@
     "radio_card": "Auswahlkarte"
   },
   "settings": {
+    "hide_on_mobile": "Auf Mobilgeräten ausblenden",
+    "hide_on_desktop": "Auf Desktop ausblenden",
     "use_grid_on_mobile": "Raster auf Mobilgeräten verwenden",
     "use_grid_on_desktop": "Raster auf Desktop verwenden",
     "custom_condition": "Benutzerdefinierte Bedingung",

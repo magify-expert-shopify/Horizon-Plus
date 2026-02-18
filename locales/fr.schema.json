@@ -212,6 +212,8 @@
     "radio_card": "Carte radio"
   },
   "settings": {
+    "hide_on_mobile": "Masquer sur mobile",
+    "hide_on_desktop": "Masquer sur ordinateur",
     "use_grid_on_mobile": "Utiliser la grille sur mobile",
     "use_grid_on_desktop": "Utiliser la grille sur ordinateur",
     "custom_condition": "Condition personnalisée",

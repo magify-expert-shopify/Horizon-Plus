@@ -212,6 +212,8 @@
     "radio_card": "Tarjeta de opción"
   },
   "settings": {
+    "hide_on_mobile": "Ocultar en móvil",
+    "hide_on_desktop": "Ocultar en escritorio",
     "use_grid_on_mobile": "Usar cuadrícula en móvil",
     "use_grid_on_desktop": "Usar cuadrícula en escritorio",
     "custom_condition": "Condición personalizada",

@@ -212,6 +212,8 @@
     "radio_card": "Alternativkort"
   },
   "settings": {
+    "hide_on_mobile": "Dölj på mobil",
+    "hide_on_desktop": "Dölj på dator",
     "use_grid_on_mobile": "Använd rutnät på mobil",
     "use_grid_on_desktop": "Använd rutnät på dator",
     "custom_condition": "Anpassat villkor",

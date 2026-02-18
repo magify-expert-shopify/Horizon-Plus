@@ -212,6 +212,8 @@
     "radio_card": "Seçim kartı"
   },
   "settings": {
+    "hide_on_mobile": "Mobilde gizle",
+    "hide_on_desktop": "Masaüstünde gizle",
     "use_grid_on_mobile": "Mobilde ızgara kullan",
     "use_grid_on_desktop": "Masaüstünde ızgara kullan",
     "custom_condition": "Ozel kosul",

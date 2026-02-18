@@ -25,6 +25,18 @@
       "content": "t:content.layout"
     },
     {
+      "type": "checkbox",
+      "id": "hide_on_mobile",
+      "label": "t:settings.hide_on_mobile",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "hide_on_desktop",
+      "label": "t:settings.hide_on_desktop",
+      "default": false
+    },
+    {
       "type": "select",
       "id": "content_direction",
       "label": "t:settings.direction",
@@ -45,7 +57,7 @@
       "id": "vertical_on_mobile",
       "label": "t:settings.vertical_on_mobile",
       "default": true,
-      "visible_if": "{{ block.settings.content_direction == 'row' }}"
+      "visible_if": "{{ block.settings.hide_on_mobile == false and block.settings.content_direction == 'row' }}"
     },
     {
       "type": "select",
@@ -209,7 +221,8 @@
           "label": "t:options.custom"
         }
       ],
-      "default": "fill"
+      "default": "fill",
+      "visible_if": "{{ block.settings.hide_on_mobile == false }}"
     },
     {
       "type": "range",

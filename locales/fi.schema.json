@@ -212,6 +212,8 @@
     "radio_card": "Valintakortti"
   },
   "settings": {
+    "hide_on_mobile": "Piilota mobiilissa",
+    "hide_on_desktop": "Piilota työpöydällä",
     "use_grid_on_mobile": "Käytä ruudukkoa mobiilissa",
     "use_grid_on_desktop": "Käytä ruudukkoa työpöydällä",
     "custom_condition": "Mukautettu ehto",

@@ -212,6 +212,8 @@
     "radio_card": "单选卡片"
   },
   "settings": {
+    "hide_on_mobile": "在移动端隐藏",
+    "hide_on_desktop": "在桌面端隐藏",
     "use_grid_on_mobile": "在移动端使用网格",
     "use_grid_on_desktop": "在桌面端使用网格",
     "custom_condition": "自定义条件",

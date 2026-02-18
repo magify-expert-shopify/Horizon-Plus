@@ -212,6 +212,8 @@
     "radio_card": "การ์ดตัวเลือก"
   },
   "settings": {
+    "hide_on_mobile": "ซ่อนบนมือถือ",
+    "hide_on_desktop": "ซ่อนบนเดสก์ท็อป",
     "use_grid_on_mobile": "ใช้กริดบนมือถือ",
     "use_grid_on_desktop": "ใช้กริดบนเดสก์ท็อป",
     "custom_condition": "เงื่อนไขกำหนดเอง",

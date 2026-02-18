@@ -212,6 +212,8 @@
     "radio_card": "Karta opcji"
   },
   "settings": {
+    "hide_on_mobile": "Ukryj na urządzeniach mobilnych",
+    "hide_on_desktop": "Ukryj na komputerze",
     "use_grid_on_mobile": "Użyj siatki na urządzeniach mobilnych",
     "use_grid_on_desktop": "Użyj siatki na komputerze",
     "custom_condition": "Warunek niestandardowy",

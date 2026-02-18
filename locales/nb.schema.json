@@ -212,6 +212,8 @@
     "radio_card": "Radiokort"
   },
   "settings": {
+    "hide_on_mobile": "Skjul på mobil",
+    "hide_on_desktop": "Skjul på desktop",
     "use_grid_on_mobile": "Bruk rutenett på mobil",
     "use_grid_on_desktop": "Bruk rutenett på desktop",
     "custom_condition": "Egendefinert betingelse",

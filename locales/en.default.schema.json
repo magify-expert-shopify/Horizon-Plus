@@ -771,6 +771,8 @@
     "radio_card": "Radio card"
   },
   "settings": {
+    "hide_on_mobile": "Hide on mobile",
+    "hide_on_desktop": "Hide on desktop",
     "use_grid_on_mobile": "Use grid on mobile",
     "use_grid_on_desktop": "Use grid on desktop",
     "custom_condition": "Custom condition",

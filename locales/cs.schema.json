@@ -212,6 +212,8 @@
     "radio_card": "Karta s volbou"
   },
   "settings": {
+    "hide_on_mobile": "Skrýt na mobilu",
+    "hide_on_desktop": "Skrýt na desktopu",
     "use_grid_on_mobile": "Použít mřížku na mobilu",
     "use_grid_on_desktop": "Použít mřížku na desktopu",
     "custom_condition": "Vlastní podmínka",
