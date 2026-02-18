@@ -460,6 +460,12 @@
       "info": "t:info.custom_condition",
       "default": "{% if true %}true{% endif %}",
       "visible_if": "{{ settings.dev_mode_enabled == true and section.settings.display_mode == 'custom'}}"
+    },
+    { "type": "header", "content": "t:content.advanced" },
+    {
+      "type": "text",
+      "id": "id",
+      "label": "t:settings.id"
     }
   ],
   "presets": [
