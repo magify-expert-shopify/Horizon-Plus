@@ -212,6 +212,8 @@
     "radio_card": "Keuzekaart"
   },
   "settings": {
+    "use_grid_on_mobile": "Raster op mobiel gebruiken",
+    "use_grid_on_desktop": "Raster op desktop gebruiken",
     "custom_condition": "Aangepaste voorwaarde",
     "display_mode": "Weergavemodus",
     "dev_mode_enabled": "Ontwikkelaarsmodus inschakelen",

@@ -212,6 +212,8 @@
     "radio_card": "Alternativkort"
   },
   "settings": {
+    "use_grid_on_mobile": "Använd rutnät på mobil",
+    "use_grid_on_desktop": "Använd rutnät på dator",
     "custom_condition": "Anpassat villkor",
     "display_mode": "Visningsläge",
     "dev_mode_enabled": "Aktivera utvecklarläge",

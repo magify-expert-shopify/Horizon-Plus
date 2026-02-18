@@ -212,6 +212,8 @@
     "radio_card": "Karta s volbou"
   },
   "settings": {
+    "use_grid_on_mobile": "Použít mřížku na mobilu",
+    "use_grid_on_desktop": "Použít mřížku na desktopu",
     "custom_condition": "Vlastní podmínka",
     "display_mode": "Režim zobrazení",
     "dev_mode_enabled": "Povolit režim vývojáře",

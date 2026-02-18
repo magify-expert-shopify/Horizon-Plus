@@ -212,6 +212,8 @@
     "radio_card": "Auswahlkarte"
   },
   "settings": {
+    "use_grid_on_mobile": "Raster auf Mobilgeräten verwenden",
+    "use_grid_on_desktop": "Raster auf Desktop verwenden",
     "custom_condition": "Benutzerdefinierte Bedingung",
     "display_mode": "Anzeigemodus",
     "dev_mode_enabled": "Entwicklermodus aktivieren",

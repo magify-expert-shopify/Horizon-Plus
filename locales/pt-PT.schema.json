@@ -212,6 +212,8 @@
     "radio_card": "Cartão de opção"
   },
   "settings": {
+    "use_grid_on_mobile": "Usar grelha no telemóvel",
+    "use_grid_on_desktop": "Usar grelha no computador",
     "custom_condition": "Condicao personalizada",
     "display_mode": "Modo de apresentacao",
     "dev_mode_enabled": "Ativar modo de programador",

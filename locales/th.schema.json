@@ -212,6 +212,8 @@
     "radio_card": "การ์ดตัวเลือก"
   },
   "settings": {
+    "use_grid_on_mobile": "ใช้กริดบนมือถือ",
+    "use_grid_on_desktop": "ใช้กริดบนเดสก์ท็อป",
     "custom_condition": "เงื่อนไขกำหนดเอง",
     "display_mode": "โหมดการแสดงผล",
     "dev_mode_enabled": "เปิดใช้งานโหมดนักพัฒนา",

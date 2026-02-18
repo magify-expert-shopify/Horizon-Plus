@@ -212,6 +212,8 @@
     "radio_card": "Radiokort"
   },
   "settings": {
+    "use_grid_on_mobile": "Bruk rutenett på mobil",
+    "use_grid_on_desktop": "Bruk rutenett på desktop",
     "custom_condition": "Egendefinert betingelse",
     "display_mode": "Visningsmodus",
     "dev_mode_enabled": "Aktiver utviklermodus",

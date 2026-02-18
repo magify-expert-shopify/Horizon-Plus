@@ -212,6 +212,8 @@
     "radio_card": "Carte radio"
   },
   "settings": {
+    "use_grid_on_mobile": "Utiliser la grille sur mobile",
+    "use_grid_on_desktop": "Utiliser la grille sur ordinateur",
     "custom_condition": "Condition personnalisée",
     "display_mode": "Mode d'affichage",
     "dev_mode_enabled": "Activer le mode développeur",

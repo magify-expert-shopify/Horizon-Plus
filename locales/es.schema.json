@@ -212,6 +212,8 @@
     "radio_card": "Tarjeta de opción"
   },
   "settings": {
+    "use_grid_on_mobile": "Usar cuadrícula en móvil",
+    "use_grid_on_desktop": "Usar cuadrícula en escritorio",
     "custom_condition": "Condición personalizada",
     "display_mode": "Modo de visualización",
     "dev_mode_enabled": "Activar modo desarrollador",

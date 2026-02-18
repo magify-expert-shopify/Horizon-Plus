@@ -212,6 +212,8 @@
     "radio_card": "单选卡片"
   },
   "settings": {
+    "use_grid_on_mobile": "在移动端使用网格",
+    "use_grid_on_desktop": "在桌面端使用网格",
     "custom_condition": "自定义条件",
     "display_mode": "显示模式",
     "dev_mode_enabled": "启用开发者模式",

@@ -212,6 +212,8 @@
     "radio_card": "Valintakortti"
   },
   "settings": {
+    "use_grid_on_mobile": "Käytä ruudukkoa mobiilissa",
+    "use_grid_on_desktop": "Käytä ruudukkoa työpöydällä",
     "custom_condition": "Mukautettu ehto",
     "display_mode": "Näyttötila",
     "dev_mode_enabled": "Ota kehittäjätila käyttöön",

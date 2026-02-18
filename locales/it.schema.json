@@ -212,6 +212,8 @@
     "radio_card": "Scheda opzione"
   },
   "settings": {
+    "use_grid_on_mobile": "Usa griglia su mobile",
+    "use_grid_on_desktop": "Usa griglia su desktop",
     "custom_condition": "Condizione personalizzata",
     "display_mode": "Modalita di visualizzazione",
     "dev_mode_enabled": "Abilita modalità sviluppatore",

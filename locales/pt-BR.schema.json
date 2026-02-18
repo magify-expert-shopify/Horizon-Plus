@@ -212,6 +212,8 @@
     "radio_card": "Cartão de opção"
   },
   "settings": {
+    "use_grid_on_mobile": "Usar grade no mobile",
+    "use_grid_on_desktop": "Usar grade no desktop",
     "custom_condition": "Condicao personalizada",
     "display_mode": "Modo de exibicao",
     "dev_mode_enabled": "Ativar modo desenvolvedor",

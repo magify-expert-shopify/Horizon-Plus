@@ -212,6 +212,8 @@
     "radio_card": "Karta opcji"
   },
   "settings": {
+    "use_grid_on_mobile": "Użyj siatki na urządzeniach mobilnych",
+    "use_grid_on_desktop": "Użyj siatki na komputerze",
     "custom_condition": "Warunek niestandardowy",
     "display_mode": "Tryb wyświetlania",
     "dev_mode_enabled": "Włącz tryb dewelopera",

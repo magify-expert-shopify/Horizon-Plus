@@ -212,6 +212,8 @@
     "radio_card": "라디오 카드"
   },
   "settings": {
+    "use_grid_on_mobile": "모바일에서 그리드 사용",
+    "use_grid_on_desktop": "데스크톱에서 그리드 사용",
     "custom_condition": "사용자 지정 조건",
     "display_mode": "표시 모드",
     "dev_mode_enabled": "개발자 모드 활성화",

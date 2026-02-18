@@ -212,6 +212,8 @@
     "radio_card": "Seçim kartı"
   },
   "settings": {
+    "use_grid_on_mobile": "Mobilde ızgara kullan",
+    "use_grid_on_desktop": "Masaüstünde ızgara kullan",
     "custom_condition": "Ozel kosul",
     "display_mode": "Gorunum modu",
     "dev_mode_enabled": "Geliştirici modunu etkinleştir",

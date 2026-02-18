@@ -212,6 +212,8 @@
     "radio_card": "Radiokort"
   },
   "settings": {
+    "use_grid_on_mobile": "Brug gitter på mobil",
+    "use_grid_on_desktop": "Brug gitter på desktop",
     "custom_condition": "Brugerdefineret betingelse",
     "display_mode": "Visningstilstand",
     "dev_mode_enabled": "Aktivér udviklertilstand",
