@@ -1,23 +1,23 @@
-{% style %}
-  {% for scheme in settings.color_schemes -%}
-    {% assign scheme_classes = scheme_classes | append: ', .color-' | append: scheme.id %}
-    {% if forloop.index == 1 %}
+{%- capture content -%}
+  {%- for scheme in settings.color_schemes -%}
+    {%- assign scheme_classes = scheme_classes | append: ', .color-' | append: scheme.id -%}
+    {%- if forloop.index == 1 -%}
       :root,
-    {% endif %}
-    {% assign background_brightness = scheme.settings.background | color_brightness %}
-    {% if background_brightness < 64 %}
-      {% assign opacity_5_15 = 0.15 %}
-      {% assign opacity_10_25 = 0.25 %}
-      {% assign opacity_35_55 = 0.55 %}
-      {% assign opacity_40_60 = 0.60 %}
-      {% assign opacity_30_60 = 0.60 %}
-    {% else %}
-      {% assign opacity_5_15 = 0.05 %}
-      {% assign opacity_10_25 = 0.1 %}
-      {% assign opacity_35_55 = 0.35 %}
-      {% assign opacity_40_60 = 0.40 %}
-      {% assign opacity_30_60 = 0.30 %}
-    {% endif %}
+    {%- endif -%}
+    {%- assign background_brightness = scheme.settings.background | color_brightness -%}
+    {%- if background_brightness < 64 -%}
+      {%- assign opacity_5_15 = 0.15 -%}
+      {%- assign opacity_10_25 = 0.25 -%}
+      {%- assign opacity_35_55 = 0.55 -%}
+      {%- assign opacity_40_60 = 0.60 -%}
+      {%- assign opacity_30_60 = 0.60 -%}
+    {%- else -%}
+      {%- assign opacity_5_15 = 0.05 -%}
+      {%- assign opacity_10_25 = 0.1 -%}
+      {%- assign opacity_35_55 = 0.35 -%}
+      {%- assign opacity_40_60 = 0.40 -%}
+      {%- assign opacity_30_60 = 0.30 -%}
+    {%- endif -%}
     .color-{{ scheme.id }} {
         --color-background: rgb({{ scheme.settings.background.rgba }});
         /* RGB values only to apply different opacities - Relative color values are not supported in iOS < 16.4 */
@@ -92,18 +92,21 @@
         --font-h6--color: var(--color-foreground-heading);
 
         /* Shadows */
-        {% if settings.drawer_drop_shadow %}
+        {%- if settings.drawer_drop_shadow -%}
           --shadow-drawer: 0px 4px 20px rgb(var(--color-shadow-rgb) / var(--opacity-15));
-        {% endif %}
-        {% if settings.popover_drop_shadow %}
+        {%- endif -%}
+        {%- if settings.popover_drop_shadow -%}
           --shadow-blur: 20px;
           --shadow-popover: 0px 4px 20px rgb(var(--color-shadow-rgb) / var(--opacity-15));
-        {% endif %}
+        {%- endif -%}
       }
-  {% endfor %}
+  {%- endfor -%}
 
   {{ scheme_classes | prepend: 'body' }} {
     color: var(--color-foreground);
     background-color: var(--color-background);
   }
-{% endstyle %}
+{%- endcapture -%}
+{%- style -%}
+  {{ content | strip_newlines | replace: '  ', ' '}}
+{%- endstyle -%}
