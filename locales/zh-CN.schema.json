@@ -212,6 +212,7 @@
     "radio_card": "单选卡片"
   },
   "settings": {
+    "aria_label": "ARIA 标签",
     "hide_on_mobile": "在移动端隐藏",
     "hide_on_desktop": "在桌面端隐藏",
     "use_grid_on_mobile": "在移动端使用网格",

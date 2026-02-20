@@ -37,6 +37,7 @@
 >
   {%- if settings.link != blank -%}
     <a
+      aria-label="{{ settings.aria_label }}"
       href="{{ settings.link }}"
       class="group-block__link"
       {% if settings.open_in_new_tab %}

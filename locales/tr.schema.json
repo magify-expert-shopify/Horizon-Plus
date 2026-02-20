@@ -212,6 +212,7 @@
     "radio_card": "Seçim kartı"
   },
   "settings": {
+    "aria_label": "ARIA etiketi",
     "hide_on_mobile": "Mobilde gizle",
     "hide_on_desktop": "Masaüstünde gizle",
     "use_grid_on_mobile": "Mobilde ızgara kullan",

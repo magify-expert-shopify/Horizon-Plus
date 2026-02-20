@@ -212,6 +212,7 @@
     "radio_card": "Alternativkort"
   },
   "settings": {
+    "aria_label": "ARIA-etikett",
     "hide_on_mobile": "Dölj på mobil",
     "hide_on_desktop": "Dölj på dator",
     "use_grid_on_mobile": "Använd rutnät på mobil",

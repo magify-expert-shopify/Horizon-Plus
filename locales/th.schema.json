@@ -212,6 +212,7 @@
     "radio_card": "การ์ดตัวเลือก"
   },
   "settings": {
+    "aria_label": "ป้ายกำกับ ARIA",
     "hide_on_mobile": "ซ่อนบนมือถือ",
     "hide_on_desktop": "ซ่อนบนเดสก์ท็อป",
     "use_grid_on_mobile": "ใช้กริดบนมือถือ",

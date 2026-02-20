@@ -212,6 +212,7 @@
     "radio_card": "ラジオカード"
   },
   "settings": {
+    "aria_label": "ARIA ラベル",
     "hide_on_mobile": "モバイルで非表示",
     "hide_on_desktop": "デスクトップで非表示",
     "use_grid_on_mobile": "モバイルでグリッドを使用",

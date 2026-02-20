@@ -212,6 +212,7 @@
     "radio_card": "Karta s volbou"
   },
   "settings": {
+    "aria_label": "Popisek ARIA",
     "hide_on_mobile": "Skrýt na mobilu",
     "hide_on_desktop": "Skrýt na desktopu",
     "use_grid_on_mobile": "Použít mřížku na mobilu",

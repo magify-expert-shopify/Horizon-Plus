@@ -212,6 +212,7 @@
     "radio_card": "Valintakortti"
   },
   "settings": {
+    "aria_label": "ARIA-otsikko",
     "hide_on_mobile": "Piilota mobiilissa",
     "hide_on_desktop": "Piilota työpöydällä",
     "use_grid_on_mobile": "Käytä ruudukkoa mobiilissa",

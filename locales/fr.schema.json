@@ -212,6 +212,7 @@
     "radio_card": "Carte radio"
   },
   "settings": {
+    "aria_label": "Libellé ARIA",
     "hide_on_mobile": "Masquer sur mobile",
     "hide_on_desktop": "Masquer sur ordinateur",
     "use_grid_on_mobile": "Utiliser la grille sur mobile",

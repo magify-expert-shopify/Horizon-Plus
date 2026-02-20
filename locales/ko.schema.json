@@ -212,6 +212,7 @@
     "radio_card": "라디오 카드"
   },
   "settings": {
+    "aria_label": "ARIA 레이블",
     "hide_on_mobile": "모바일에서 숨기기",
     "hide_on_desktop": "데스크톱에서 숨기기",
     "use_grid_on_mobile": "모바일에서 그리드 사용",

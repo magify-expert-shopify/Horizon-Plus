@@ -212,6 +212,7 @@
     "radio_card": "Karta opcji"
   },
   "settings": {
+    "aria_label": "Etykieta ARIA",
     "hide_on_mobile": "Ukryj na urządzeniach mobilnych",
     "hide_on_desktop": "Ukryj na komputerze",
     "use_grid_on_mobile": "Użyj siatki na urządzeniach mobilnych",

@@ -212,6 +212,7 @@
     "radio_card": "Keuzekaart"
   },
   "settings": {
+    "aria_label": "ARIA-label",
     "hide_on_mobile": "Verbergen op mobiel",
     "hide_on_desktop": "Verbergen op desktop",
     "use_grid_on_mobile": "Raster op mobiel gebruiken",
