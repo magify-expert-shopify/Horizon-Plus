@@ -1,4 +1,4 @@
-{%- capture content -%}
+{%- capture css -%}
   {%- liquid
     assign rendered_fonts = ''
 
@@ -689,6 +689,9 @@
     --cart-secondary-font-weight: var(--font-{{ settings.cart_price_font }}--weight);
   }
 {%- endcapture -%}
-{%- style -%}
-  {{ content | strip_newlines | replace: '  ', ' '}}
-{%- endstyle -%}
+
+{% if css != blank %}
+  {%- style -%}
+    {{ css | strip_newlines | replace: '  ', ' '}}
+  {%- endstyle -%}
+{% endif %}

@@ -11,7 +11,7 @@
       }
     },
     {
-      "files": "critical-css.liquid",
+      "files": ["critical-css.liquid", "**/*.css.liquid"],
       "options": {
         "parser": "css"
       }
