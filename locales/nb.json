@@ -29,6 +29,8 @@
     "slider_label": "Glidefelt"
   },
   "accessibility": {
+    "logo_home_link": "Logo, lenke til startsiden",
+    "home_link": "Gå til startsiden",
     "play_model": "Spill av 3D-modell",
     "play_video": "Spill av video",
     "unit_price": "Enhetspris",

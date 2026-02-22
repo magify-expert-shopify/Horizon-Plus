@@ -29,6 +29,8 @@
     "slider_label": "滑块"
   },
   "accessibility": {
+    "logo_home_link": "Logo，链接到首页",
+    "home_link": "前往首页",
     "play_model": "演示 3D 模型",
     "play_video": "播放视频",
     "unit_price": "单价",

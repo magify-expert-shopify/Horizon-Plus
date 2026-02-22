@@ -212,6 +212,8 @@
     "radio_card": "Cartão de opção"
   },
   "settings": {
+    "logo_type": "Tipo de logótipo",
+    "svg_logo_filename": "Nome do ficheiro do logótipo SVG",
     "aria_label": "Rótulo ARIA",
     "hide_on_mobile": "Ocultar no telemóvel",
     "hide_on_desktop": "Ocultar no computador",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "Barra fixa de adicionar ao carrinho"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "Condicao personalizada",
     "all_pages": "Todas as paginas",
     "homepage_only": "Apenas pagina inicial",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "Novidades"
   },
   "info": {
+    "logo_type": "Escolha se o logótipo deve usar imagem ou ficheiro SVG.",
+    "svg_logo_filename": "Indique o nome do ficheiro SVG em assets, por exemplo brand.",
     "custom_condition": "Devolva true para mostrar a secao, caso contrario false.",
     "dev_mode": "Dá acesso a mais opções, incluindo a possibilidade de injetar código a partir das definições.",
     "video_alt_text": "Descreva o vídeo para utilizadores de tecnologia de apoio",

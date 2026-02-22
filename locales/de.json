@@ -29,6 +29,8 @@
     "slider_label": "Slider"
   },
   "accessibility": {
+    "logo_home_link": "Logo, Link zur Startseite",
+    "home_link": "Zur Startseite",
     "play_model": "3D-Modell abspielen",
     "play_video": "Video abspielen",
     "unit_price": "Grundpreis",

@@ -212,6 +212,8 @@
     "radio_card": "Karta s volbou"
   },
   "settings": {
+    "logo_type": "Typ loga",
+    "svg_logo_filename": "Název souboru SVG loga",
     "aria_label": "Popisek ARIA",
     "hide_on_mobile": "Skrýt na mobilu",
     "hide_on_desktop": "Skrýt na desktopu",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "Přilepené tlačítko Přidat do košíku"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "Vlastní podmínka",
     "all_pages": "Všechny stránky",
     "homepage_only": "Pouze domovská stránka",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "Novinky"
   },
   "info": {
+    "logo_type": "Vyberte, zda použít obrázek nebo SVG soubor.",
+    "svg_logo_filename": "Zadejte název souboru SVG v assets, např. brand.",
     "custom_condition": "Vraťte hodnotu true pro zobrazení sekce, jinak false.",
     "dev_mode": "Získáte přístup k více možnostem, včetně možnosti vkládat kód přímo z nastavení.",
     "video_alt_text": "Popište video pro uživatele asistivních technologií",

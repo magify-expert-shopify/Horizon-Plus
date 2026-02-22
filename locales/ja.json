@@ -29,6 +29,8 @@
     "slider_label": "スライダー"
   },
   "accessibility": {
+    "logo_home_link": "ロゴ、ホームページへのリンク",
+    "home_link": "ホームページへ移動",
     "play_model": "3Dモデルを再生",
     "play_video": "ビデオを再生",
     "unit_price": "単価",

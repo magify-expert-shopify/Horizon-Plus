@@ -29,6 +29,8 @@
     "slider_label": "แถบเลื่อน"
   },
   "accessibility": {
+    "logo_home_link": "โลโก้ ลิงก์ไปยังหน้าแรก",
+    "home_link": "ไปยังหน้าแรก",
     "play_model": "เล่นโมเดล 3 มิติ",
     "play_video": "เล่นวิดีโอ",
     "unit_price": "ราคาต่อหน่วย",

@@ -212,6 +212,8 @@
     "radio_card": "라디오 카드"
   },
   "settings": {
+    "logo_type": "로고 유형",
+    "svg_logo_filename": "SVG 로고 파일명",
     "aria_label": "ARIA 레이블",
     "hide_on_mobile": "모바일에서 숨기기",
     "hide_on_desktop": "데스크톱에서 숨기기",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "고정 카트 추가"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "사용자 지정 조건",
     "all_pages": "모든 페이지",
     "homepage_only": "홈페이지만",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "신상품"
   },
   "info": {
+    "logo_type": "로고에 이미지 또는 SVG 파일 중 어떤 것을 사용할지 선택하세요.",
+    "svg_logo_filename": "assets의 SVG 파일명을 입력하세요. 예: brand.",
     "custom_condition": "섹션을 표시하려면 true, 아니면 false를 반환하세요.",
     "dev_mode": "더 많은 옵션에 접근할 수 있으며, 특히 설정에서 코드를 삽입할 수 있습니다.",
     "carousel_layout_on_mobile": "모바일에서는 항상 캐러셀이 사용됩니다.",

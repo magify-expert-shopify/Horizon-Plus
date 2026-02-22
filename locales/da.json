@@ -29,6 +29,8 @@
     "slider_label": "Billedkarrusel"
   },
   "accessibility": {
+    "logo_home_link": "Logo, link til startsiden",
+    "home_link": "Gå til startsiden",
     "play_model": "Afspil 3D-model",
     "play_video": "Afspil video",
     "unit_price": "Stykpris",

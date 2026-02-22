@@ -212,6 +212,8 @@
     "radio_card": "Radiokort"
   },
   "settings": {
+    "logo_type": "Logotype",
+    "svg_logo_filename": "Filnavn for SVG-logo",
     "aria_label": "ARIA-label",
     "hide_on_mobile": "Skjul på mobil",
     "hide_on_desktop": "Skjul på desktop",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "Fastgjort 'Læg i kurv'"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "Brugerdefineret betingelse",
     "all_pages": "Alle sider",
     "homepage_only": "Kun startside",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "Nye varer"
   },
   "info": {
+    "logo_type": "Vælg om logoet skal være et billede eller en SVG-fil.",
+    "svg_logo_filename": "Angiv SVG-filnavnet i assets, f.eks. brand.",
     "custom_condition": "Returner true for at vise sektionen, ellers false.",
     "dev_mode": "Du får adgang til flere muligheder, herunder at kunne indsætte kode direkte fra indstillingerne.",
     "carousel_layout_on_mobile": "Karrusellen bruges altid på mobil",

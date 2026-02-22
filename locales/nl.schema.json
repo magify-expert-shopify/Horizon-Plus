@@ -212,6 +212,8 @@
     "radio_card": "Keuzekaart"
   },
   "settings": {
+    "logo_type": "Logotype",
+    "svg_logo_filename": "Bestandsnaam SVG-logo",
     "aria_label": "ARIA-label",
     "hide_on_mobile": "Verbergen op mobiel",
     "hide_on_desktop": "Verbergen op desktop",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "Vaste 'Toevoegen aan winkelwagen'-balk"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "Aangepaste voorwaarde",
     "all_pages": "Alle pagina s",
     "homepage_only": "Alleen homepage",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "Nieuw binnen"
   },
   "info": {
+    "logo_type": "Kies of het logo een afbeelding of een SVG-bestand gebruikt.",
+    "svg_logo_filename": "Voer de SVG-bestandsnaam in uit assets, bijvoorbeeld brand.",
     "custom_condition": "Geef true terug om de sectie te tonen, anders false.",
     "dev_mode": "Geeft toegang tot meer opties, waaronder de mogelijkheid om code te injecteren vanuit de instellingen.",
     "carousel_layout_on_mobile": "Op mobiel wordt altijd een carrousel gebruikt",

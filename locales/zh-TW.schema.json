@@ -212,6 +212,8 @@
     "radio_card": "單選卡片"
   },
   "settings": {
+    "logo_type": "Logo 類型",
+    "svg_logo_filename": "SVG Logo 檔名",
     "aria_label": "ARIA 標籤",
     "hide_on_mobile": "在行動版隱藏",
     "hide_on_desktop": "在桌面版隱藏",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "固定加入購物車"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "自訂條件",
     "all_pages": "所有頁面",
     "homepage_only": "僅首頁",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "新品上市"
   },
   "info": {
+    "logo_type": "選擇 Logo 使用圖片或 SVG 檔案。",
+    "svg_logo_filename": "請輸入 assets 中的 SVG 檔名，例如 brand。",
     "custom_condition": "回傳 true 以顯示此區塊，否則回傳 false。",
     "dev_mode": "可使用更多選項，尤其可從設定中注入程式碼。",
     "carousel_layout_on_mobile": "在行動裝置上一律使用輪播",

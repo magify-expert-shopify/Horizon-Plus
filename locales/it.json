@@ -29,6 +29,8 @@
     "slider_label": "Cursore"
   },
   "accessibility": {
+    "logo_home_link": "Logo, link alla home page",
+    "home_link": "Vai alla home page",
     "play_model": "Riproduci modello 3D",
     "play_video": "Riproduci video",
     "unit_price": "Prezzo unitario",

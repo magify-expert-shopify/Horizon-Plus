@@ -212,6 +212,8 @@
     "radio_card": "Karta opcji"
   },
   "settings": {
+    "logo_type": "Typ logo",
+    "svg_logo_filename": "Nazwa pliku logo SVG",
     "aria_label": "Etykieta ARIA",
     "hide_on_mobile": "Ukryj na urządzeniach mobilnych",
     "hide_on_desktop": "Ukryj na komputerze",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "Przypięte dodawanie do koszyka"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "Warunek niestandardowy",
     "all_pages": "Wszystkie strony",
     "homepage_only": "Tylko strona główna",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "Nowości"
   },
   "info": {
+    "logo_type": "Wybierz, czy logo ma używać obrazu czy pliku SVG.",
+    "svg_logo_filename": "Podaj nazwę pliku SVG w assets, np. brand.",
     "custom_condition": "Zwróć true, aby wyświetlić sekcję, w przeciwnym razie false.",
     "dev_mode": "Daje dostęp do większej liczby opcji, w tym możliwości wstrzykiwania kodu z ustawień.",
     "video_alt_text": "Opisz wideo dla użytkowników technologii wspomagających",

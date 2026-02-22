@@ -212,6 +212,8 @@
     "radio_card": "Seçim kartı"
   },
   "settings": {
+    "logo_type": "Logo türü",
+    "svg_logo_filename": "SVG logo dosya adı",
     "aria_label": "ARIA etiketi",
     "hide_on_mobile": "Mobilde gizle",
     "hide_on_desktop": "Masaüstünde gizle",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "Sabit sepete ekle"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "Ozel kosul",
     "all_pages": "Tum sayfalar",
     "homepage_only": "Yalnizca anasayfa",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "Yeni gelenler"
   },
   "info": {
+    "logo_type": "Logoda görsel mi yoksa SVG dosyası mı kullanılacağını seçin.",
+    "svg_logo_filename": "assets içindeki SVG dosya adını girin, örn. brand.",
     "custom_condition": "Bolumu gostermek icin true, aksi halde false dondurun.",
     "dev_mode": "Ayarlar üzerinden kod enjekte etme dahil daha fazla seçeneğe erişim sağlar.",
     "video_alt_text": "Yardımcı teknoloji kullanıcıları için videoyu açıklayın",

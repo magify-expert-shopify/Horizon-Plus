@@ -212,6 +212,8 @@
     "radio_card": "Scheda opzione"
   },
   "settings": {
+    "logo_type": "Tipo di logo",
+    "svg_logo_filename": "Nome file del logo SVG",
     "aria_label": "Etichetta ARIA",
     "hide_on_mobile": "Nascondi su mobile",
     "hide_on_desktop": "Nascondi su desktop",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "Aggiunta al carrello fissa"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "Condizione personalizzata",
     "all_pages": "Tutte le pagine",
     "homepage_only": "Solo home page",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "Nuovi arrivi"
   },
   "info": {
+    "logo_type": "Scegli se usare un'immagine o un file SVG per il logo.",
+    "svg_logo_filename": "Inserisci il nome del file SVG negli assets, ad esempio brand.",
     "custom_condition": "Restituisci true per mostrare la sezione, altrimenti false.",
     "dev_mode": "Consente l’accesso a più opzioni, inclusa la possibilità di iniettare codice dalle impostazioni.",
     "carousel_layout_on_mobile": "Sui dispositivi mobili viene sempre utilizzato il carosello.",

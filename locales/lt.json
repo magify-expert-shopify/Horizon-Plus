@@ -29,6 +29,8 @@
     "slider_label": "Slankiklis"
   },
   "accessibility": {
+    "logo_home_link": "Logotipas, nuoroda į pagrindinį puslapį",
+    "home_link": "Eiti į pagrindinį puslapį",
     "play_model": "Paleisti 3D modelį",
     "play_video": "Paleisti vaizdo įrašą",
     "unit_price": "Vieneto kaina",

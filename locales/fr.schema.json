@@ -212,6 +212,8 @@
     "radio_card": "Carte radio"
   },
   "settings": {
+    "logo_type": "Type de logo",
+    "svg_logo_filename": "Nom de fichier du logo SVG",
     "aria_label": "Libellé ARIA",
     "hide_on_mobile": "Masquer sur mobile",
     "hide_on_desktop": "Masquer sur ordinateur",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "Ajout au panier flottant"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "Condition personnalisée",
     "all_pages": "Toutes les pages",
     "homepage_only": "Page d'accueil uniquement",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "Nouveautés"
   },
   "info": {
+    "logo_type": "Choisissez si le logo utilise une image ou un fichier SVG.",
+    "svg_logo_filename": "Indiquez le nom du fichier SVG dans assets, par exemple brand.",
     "custom_condition": "Retournez true pour afficher la section, sinon false.",
     "dev_mode": "Donne accès à plus d’options, notamment la possibilité d’injecter du code depuis les paramètres.",
     "carousel_layout_on_mobile": "Le carrousel est toujours utilisé sur mobile",

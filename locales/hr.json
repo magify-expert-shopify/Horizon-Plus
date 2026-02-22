@@ -29,6 +29,8 @@
     "slider_label": "Kliznik"
   },
   "accessibility": {
+    "logo_home_link": "Logotip, poveznica na početnu stranicu",
+    "home_link": "Idi na početnu stranicu",
     "play_model": "Reproduciraj 3D model",
     "play_video": "Reproduciraj videozapis",
     "unit_price": "Jedinična cijena",

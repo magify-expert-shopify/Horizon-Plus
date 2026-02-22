@@ -29,6 +29,8 @@
     "slider_label": "Carrousel"
   },
   "accessibility": {
+    "logo_home_link": "Logo, lien vers la page d'accueil",
+    "home_link": "Aller à la page d'accueil",
     "play_model": "Jouer le modèle 3D",
     "play_video": "Lire la vidéo",
     "unit_price": "Prix unitaire",

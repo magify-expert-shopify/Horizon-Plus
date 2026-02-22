@@ -15,15 +15,41 @@
         "content": "t:content.manage_store_name"
       },
       {
+        "type": "select",
+        "id": "logo_type",
+        "label": "t:settings.logo_type",
+        "options": [
+          {
+            "value": "image",
+            "label": "t:options.image"
+          },
+          {
+            "value": "svg",
+            "label": "t:options.svg"
+          }
+        ],
+        "default": "image",
+        "info": "t:info.logo_type"
+      },
+      {
         "type": "image_picker",
         "id": "logo",
-        "label": "t:settings.default_logo"
+        "label": "t:settings.default_logo",
+        "visible_if": "{{ settings.logo_type == 'image' }}"
       },
       {
         "type": "image_picker",
         "id": "logo_inverse",
         "label": "t:settings.inverse_logo",
-        "info": "t:content.inverse_logo_info"
+        "info": "t:content.inverse_logo_info",
+        "visible_if": "{{ settings.logo_type == 'image' }}"
+      },
+      {
+        "type": "text",
+        "id": "svg_logo_filename",
+        "label": "t:settings.svg_logo_filename",
+        "info": "t:info.svg_logo_filename",
+        "visible_if": "{{ settings.logo_type == 'svg' }}"
       },
       {
         "type": "range",

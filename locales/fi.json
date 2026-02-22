@@ -29,6 +29,8 @@
     "slider_label": "Liukusäädin"
   },
   "accessibility": {
+    "logo_home_link": "Logo, linkki etusivulle",
+    "home_link": "Siirry etusivulle",
     "play_model": "Toista 3D-malli",
     "play_video": "Toista video",
     "unit_price": "Yksikköhinta",

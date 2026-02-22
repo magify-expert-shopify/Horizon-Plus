@@ -29,6 +29,8 @@
     "slider_label": "Schuifregelaar"
   },
   "accessibility": {
+    "logo_home_link": "Logo, link naar de startpagina",
+    "home_link": "Ga naar de startpagina",
     "play_model": "3D-model afspelen",
     "play_video": "Video afspelen",
     "unit_price": "Eenheidsprijs",

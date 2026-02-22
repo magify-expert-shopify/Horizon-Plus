@@ -29,6 +29,8 @@
     "slider_label": "Jazdec"
   },
   "accessibility": {
+    "logo_home_link": "Logo, odkaz na domovskú stránku",
+    "home_link": "Prejsť na domovskú stránku",
     "play_model": "Prehrať 3D model",
     "play_video": "Prehrať video",
     "unit_price": "Jednotková cena",

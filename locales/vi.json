@@ -29,6 +29,8 @@
     "slider_label": "Thanh trượt"
   },
   "accessibility": {
+    "logo_home_link": "Logo, liên kết đến trang chủ",
+    "home_link": "Đi đến trang chủ",
     "play_model": "Phát mô hình 3D",
     "play_video": "Phát video",
     "unit_price": "Đơn giá",

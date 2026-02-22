@@ -212,6 +212,8 @@
     "radio_card": "Valintakortti"
   },
   "settings": {
+    "logo_type": "Logon tyyppi",
+    "svg_logo_filename": "SVG-logon tiedostonimi",
     "aria_label": "ARIA-otsikko",
     "hide_on_mobile": "Piilota mobiilissa",
     "hide_on_desktop": "Piilota työpöydällä",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "Kiinteä Lisää ostoskoriin -toiminto"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "Mukautettu ehto",
     "all_pages": "Kaikki sivut",
     "homepage_only": "Vain etusivu",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "Uutuudet"
   },
   "info": {
+    "logo_type": "Valitse käytetäänkö logossa kuvaa vai SVG-tiedostoa.",
+    "svg_logo_filename": "Anna assets-kansion SVG-tiedostonimi, esimerkiksi brand.",
     "custom_condition": "Palauta true näyttääksesi osion, muuten false.",
     "dev_mode": "Saat käyttöösi lisää vaihtoehtoja, mukaan lukien mahdollisuus lisätä koodia suoraan asetuksista.",
     "carousel_layout_on_mobile": "Mobiilissa käytetään aina karusellia.",

@@ -29,6 +29,8 @@
     "slider_label": "Csúszka"
   },
   "accessibility": {
+    "logo_home_link": "Logó, hivatkozás a kezdőlapra",
+    "home_link": "Ugrás a kezdőlapra",
     "play_model": "3D-modell lejátszása",
     "play_video": "Videó lejátszása",
     "unit_price": "Egységár",

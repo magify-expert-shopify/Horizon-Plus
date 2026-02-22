@@ -212,6 +212,8 @@
     "radio_card": "Tarjeta de opción"
   },
   "settings": {
+    "logo_type": "Tipo de logotipo",
+    "svg_logo_filename": "Nombre de archivo del logotipo SVG",
     "aria_label": "Etiqueta ARIA",
     "hide_on_mobile": "Ocultar en móvil",
     "hide_on_desktop": "Ocultar en escritorio",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "Agregar al carrito fijo"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "Condición personalizada",
     "all_pages": "Todas las páginas",
     "homepage_only": "Solo página de inicio",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "Novedades"
   },
   "info": {
+    "logo_type": "Elige si usar una imagen o un archivo SVG para el logotipo.",
+    "svg_logo_filename": "Introduce el nombre del archivo SVG en assets, por ejemplo brand.",
     "custom_condition": "Devuelve true para mostrar la sección; en caso contrario, false.",
     "dev_mode": "Obtén acceso a más opciones, incluida la posibilidad de inyectar código desde la configuración.",
     "carousel_layout_on_mobile": "En dispositivos móviles siempre se usa el carrusel",

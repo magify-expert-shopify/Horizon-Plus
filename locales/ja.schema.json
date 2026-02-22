@@ -212,6 +212,8 @@
     "radio_card": "ラジオカード"
   },
   "settings": {
+    "logo_type": "ロゴの種類",
+    "svg_logo_filename": "SVGロゴのファイル名",
     "aria_label": "ARIA ラベル",
     "hide_on_mobile": "モバイルで非表示",
     "hide_on_desktop": "デスクトップで非表示",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "固定「カートに追加」"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "カスタム条件",
     "all_pages": "すべてのページ",
     "homepage_only": "ホームページのみ",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "新着商品"
   },
   "info": {
+    "logo_type": "ロゴに画像またはSVGファイルのどちらを使うか選択します。",
+    "svg_logo_filename": "assets 内のSVGファイル名を入力してください（例: brand）。",
     "custom_condition": "セクションを表示する場合は true、表示しない場合は false を返します。",
     "dev_mode": "より多くのオプションにアクセスでき、特に設定からコードを挿入できます。",
     "video_alt_text": "支援技術のユーザーのために動画の説明を記述します",

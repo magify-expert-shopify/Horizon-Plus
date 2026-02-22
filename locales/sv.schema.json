@@ -212,6 +212,8 @@
     "radio_card": "Alternativkort"
   },
   "settings": {
+    "logo_type": "Logotyp",
+    "svg_logo_filename": "Filnamn för SVG-logotyp",
     "aria_label": "ARIA-etikett",
     "hide_on_mobile": "Dölj på mobil",
     "hide_on_desktop": "Dölj på dator",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "Fast ”Lägg till i varukorgen”"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "Anpassat villkor",
     "all_pages": "Alla sidor",
     "homepage_only": "Endast startsida",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "Nyheter"
   },
   "info": {
+    "logo_type": "Välj om logotypen ska använda en bild eller en SVG-fil.",
+    "svg_logo_filename": "Ange SVG-filnamnet i assets, till exempel brand.",
     "custom_condition": "Returnera true för att visa sektionen, annars false.",
     "dev_mode": "Ger åtkomst till fler alternativ, inklusive möjligheten att injicera kod från inställningarna.",
     "video_alt_text": "Beskriv videon för användare av hjälpmedelsteknik",

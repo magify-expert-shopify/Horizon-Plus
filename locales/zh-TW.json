@@ -29,6 +29,8 @@
     "slider_label": "投影播放器"
   },
   "accessibility": {
+    "logo_home_link": "Logo，連結到首頁",
+    "home_link": "前往首頁",
     "play_model": "播放 3D 模型",
     "play_video": "播放影片",
     "unit_price": "單價",

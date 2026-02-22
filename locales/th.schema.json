@@ -212,6 +212,8 @@
     "radio_card": "การ์ดตัวเลือก"
   },
   "settings": {
+    "logo_type": "ประเภทโลโก้",
+    "svg_logo_filename": "ชื่อไฟล์โลโก้ SVG",
     "aria_label": "ป้ายกำกับ ARIA",
     "hide_on_mobile": "ซ่อนบนมือถือ",
     "hide_on_desktop": "ซ่อนบนเดสก์ท็อป",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "เพิ่มลงในตะกร้าสินค้าแบบตรึง"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "เงื่อนไขกำหนดเอง",
     "all_pages": "ทุกหน้า",
     "homepage_only": "หน้าแรกเท่านั้น",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "สินค้ามาใหม่"
   },
   "info": {
+    "logo_type": "เลือกว่าจะใช้รูปภาพหรือไฟล์ SVG สำหรับโลโก้",
+    "svg_logo_filename": "ใส่ชื่อไฟล์ SVG ใน assets เช่น brand",
     "custom_condition": "คืนค่า true เพื่อแสดงเซกชัน มิฉะนั้นคืนค่า false",
     "dev_mode": "ช่วยให้เข้าถึงตัวเลือกเพิ่มเติม รวมถึงความสามารถในการฉีดโค้ดจากการตั้งค่า",
     "video_alt_text": "โปรดอธิบายวิดีโอสำหรับผู้ใช้เทคโนโลยีความช่วยเหลือพิเศษ",

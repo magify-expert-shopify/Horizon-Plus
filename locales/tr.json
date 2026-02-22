@@ -29,6 +29,8 @@
     "slider_label": "Kaydırıcı"
   },
   "accessibility": {
+    "logo_home_link": "Logo, ana sayfa bağlantısı",
+    "home_link": "Ana sayfaya git",
     "play_model": "3B modeli oynat",
     "play_video": "Videoyu oynat",
     "unit_price": "Birim fiyatı",

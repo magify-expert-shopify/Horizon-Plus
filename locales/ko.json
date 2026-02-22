@@ -29,6 +29,8 @@
     "slider_label": "슬라이더"
   },
   "accessibility": {
+    "logo_home_link": "로고, 홈페이지 링크",
+    "home_link": "홈페이지로 이동",
     "play_model": "3D 모델 재생",
     "play_video": "동영상 재생",
     "unit_price": "단가",

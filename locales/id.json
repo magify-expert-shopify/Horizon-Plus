@@ -29,6 +29,8 @@
     "slider_label": "Slider"
   },
   "accessibility": {
+    "logo_home_link": "Logo, tautan ke beranda",
+    "home_link": "Buka beranda",
     "play_model": "Putar model 3D",
     "play_video": "Putar video",
     "unit_price": "Harga satuan",

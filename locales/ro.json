@@ -29,6 +29,8 @@
     "slider_label": "Cursor"
   },
   "accessibility": {
+    "logo_home_link": "Logo, link către pagina principală",
+    "home_link": "Mergi la pagina principală",
     "play_model": "Redă modelul 3D",
     "play_video": "Redă videoclipul",
     "unit_price": "Preț unitar",

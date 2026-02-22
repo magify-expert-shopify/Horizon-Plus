@@ -212,6 +212,8 @@
     "radio_card": "单选卡片"
   },
   "settings": {
+    "logo_type": "Logo 类型",
+    "svg_logo_filename": "SVG Logo 文件名",
     "aria_label": "ARIA 标签",
     "hide_on_mobile": "在移动端隐藏",
     "hide_on_desktop": "在桌面端隐藏",
@@ -620,6 +622,7 @@
     "sticky_add_to_cart": "悬浮“添加到购物车”"
   },
   "options": {
+    "svg": "SVG",
     "custom_condition": "自定义条件",
     "all_pages": "所有页面",
     "homepage_only": "仅首页",
@@ -1117,6 +1120,8 @@
     "new_arrivals": "新品上架"
   },
   "info": {
+    "logo_type": "选择 Logo 使用图片还是 SVG 文件。",
+    "svg_logo_filename": "输入 assets 中的 SVG 文件名，例如 brand。",
     "custom_condition": "返回 true 显示该分区，否则返回 false。",
     "dev_mode": "可访问更多选项，尤其是可从设置中注入代码。",
     "video_alt_text": "为使用辅助技术的用户描述视频",
